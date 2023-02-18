@@ -1,0 +1,5549 @@
+{
+  "success": true,
+  "rgInventory": {
+    "12600498894": {
+      "id": "12600498894",
+      "classid": "780650846",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 1
+    },
+    "12600498939": {
+      "id": "12600498939",
+      "classid": "22989188",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 2
+    },
+    "12600498921": {
+      "id": "12600498921",
+      "classid": "780630690",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 3
+    },
+    "12600498962": {
+      "id": "12600498962",
+      "classid": "2675",
+      "instanceid": "11040547",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 4
+    },
+    "3370735041": {
+      "id": "3370735041",
+      "classid": "133210",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 5
+    },
+    "3370750373": {
+      "id": "3370750373",
+      "classid": "780610881",
+      "instanceid": "23967825",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 6
+    },
+    "3370750371": {
+      "id": "3370750371",
+      "classid": "780610886",
+      "instanceid": "23967825",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 7
+    },
+    "3370750370": {
+      "id": "3370750370",
+      "classid": "780610885",
+      "instanceid": "23967825",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 8
+    },
+    "3370746080": {
+      "id": "3370746080",
+      "classid": "780611641",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 9
+    },
+    "3370735045": {
+      "id": "3370735045",
+      "classid": "780610889",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 10
+    },
+    "3370735042": {
+      "id": "3370735042",
+      "classid": "13334022",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 11
+    },
+    "3370735030": {
+      "id": "3370735030",
+      "classid": "780610891",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 12
+    },
+    "3370735048": {
+      "id": "3370735048",
+      "classid": "780610907",
+      "instanceid": "23969826",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 13
+    },
+    "3370710039": {
+      "id": "3370710039",
+      "classid": "331369",
+      "instanceid": "164496792",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 14
+    },
+    "3370735046": {
+      "id": "3370735046",
+      "classid": "780610909",
+      "instanceid": "24230620",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 15
+    },
+    "3370710042": {
+      "id": "3370710042",
+      "classid": "1336074005",
+      "instanceid": "24614981",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 16
+    },
+    "3370735044": {
+      "id": "3370735044",
+      "classid": "780610897",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 17
+    },
+    "3370735029": {
+      "id": "3370735029",
+      "classid": "330502",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 18
+    },
+    "3370735040": {
+      "id": "3370735040",
+      "classid": "29177",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 19
+    },
+    "3370735050": {
+      "id": "3370735050",
+      "classid": "780610911",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 20
+    },
+    "3370735049": {
+      "id": "3370735049",
+      "classid": "62860903",
+      "instanceid": "24230620",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 21
+    },
+    "3370760597": {
+      "id": "3370760597",
+      "classid": "780610915",
+      "instanceid": "23971520",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 22
+    },
+    "3370710041": {
+      "id": "3370710041",
+      "classid": "22989188",
+      "instanceid": "23967790",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 23
+    },
+    "3370735047": {
+      "id": "3370735047",
+      "classid": "73625845",
+      "instanceid": "24269228",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 24
+    },
+    "3370735043": {
+      "id": "3370735043",
+      "classid": "13251699",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 25
+    },
+    "3370735020": {
+      "id": "3370735020",
+      "classid": "108",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 26
+    },
+    "3370735022": {
+      "id": "3370735022",
+      "classid": "67",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 27
+    },
+    "3370735021": {
+      "id": "3370735021",
+      "classid": "104",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 28
+    },
+    "3370735053": {
+      "id": "3370735053",
+      "classid": "780610893",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 29
+    },
+    "3370750375": {
+      "id": "3370750375",
+      "classid": "780611056",
+      "instanceid": "23967825",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 30
+    },
+    "3370735023": {
+      "id": "3370735023",
+      "classid": "137",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 31
+    },
+    "3370735024": {
+      "id": "3370735024",
+      "classid": "75",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 32
+    },
+    "3370735025": {
+      "id": "3370735025",
+      "classid": "66",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 33
+    },
+    "3370735032": {
+      "id": "3370735032",
+      "classid": "118",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 34
+    },
+    "3370735033": {
+      "id": "3370735033",
+      "classid": "371",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 35
+    },
+    "3370735031": {
+      "id": "3370735031",
+      "classid": "81",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 36
+    },
+    "3370735034": {
+      "id": "3370735034",
+      "classid": "53",
+      "instanceid": "24234480",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 37
+    },
+    "3370735036": {
+      "id": "3370735036",
+      "classid": "97",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 38
+    },
+    "3370735035": {
+      "id": "3370735035",
+      "classid": "132",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 39
+    },
+    "3370750377": {
+      "id": "3370750377",
+      "classid": "780612154",
+      "instanceid": "23967825",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 40
+    },
+    "3370760595": {
+      "id": "3370760595",
+      "classid": "1336078061",
+      "instanceid": "629326981",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 41
+    },
+    "3370735011": {
+      "id": "3370735011",
+      "classid": "131",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 42
+    },
+    "3370735012": {
+      "id": "3370735012",
+      "classid": "47",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 43
+    },
+    "3370735013": {
+      "id": "3370735013",
+      "classid": "324",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 44
+    },
+    "3370735018": {
+      "id": "3370735018",
+      "classid": "82",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 45
+    },
+    "3370735017": {
+      "id": "3370735017",
+      "classid": "130",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 46
+    },
+    "3370735019": {
+      "id": "3370735019",
+      "classid": "125",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 47
+    },
+    "3370735015": {
+      "id": "3370735015",
+      "classid": "129",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 48
+    },
+    "3370735014": {
+      "id": "3370735014",
+      "classid": "320",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 49
+    },
+    "3370735016": {
+      "id": "3370735016",
+      "classid": "86",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 50
+    },
+    "3370735026": {
+      "id": "3370735026",
+      "classid": "124",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 51
+    },
+    "3370750376": {
+      "id": "3370750376",
+      "classid": "780613087",
+      "instanceid": "23972824",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 52
+    },
+    "3370735027": {
+      "id": "3370735027",
+      "classid": "69",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 53
+    },
+    "3370735028": {
+      "id": "3370735028",
+      "classid": "133",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 54
+    },
+    "3370735037": {
+      "id": "3370735037",
+      "classid": "102",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 55
+    },
+    "3370735039": {
+      "id": "3370735039",
+      "classid": "59",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 56
+    },
+    "3370735038": {
+      "id": "3370735038",
+      "classid": "155",
+      "instanceid": "23967788",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 57
+    },
+    "3370760596": {
+      "id": "3370760596",
+      "classid": "780611840",
+      "instanceid": "23968029",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 58
+    }
+  },
+  "rgCurrency": [],
+  "rgDescriptions": {
+    "780650846_0": {
+      "appid": "440",
+      "classid": "780650846",
+      "instanceid": "0",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIfgYFWCT0uSpKidzvAvyzBOESnN97ssQAi2VpxFR6MuKxZGNkc1CSVqILDfc7ol_qXn5k7J8yDIDi9u9TehKv6tXyIw0bbw",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIfgYFWCT0uSpKidzvAvyzBOESnN97ssQAi2VpxFR6MuKxZGNkc1CSVqILDfc7ol_qXn5k7J8yDIDi9u9TehKv6tXyIw0bbw",
+      "icon_drag_url": "",
+      "name": "Mann Co. Supply Munition Series #91",
+      "market_hash_name": "Mann Co. Supply Munition Series #91",
+      "market_name": "Mann Co. Supply Munition Series #91",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 20 Supply Crate",
+      "tradable": 1,
+      "marketable": 1,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Crate Series #91",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "You need a Mann Co. Supply Crate Key to open this.\nYou can pick one up at the Mann Co. Store."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "This crate contains one of the following Killstreak Kit.\nKits obtained might be Specialized or Professional."
+        },
+        {
+          "value": "    Killstreak Flare Gun Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5793"
+          }
+        },
+        {
+          "value": "    Killstreak Wrench Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5794"
+          }
+        },
+        {
+          "value": "    Killstreak Revolver Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5795"
+          }
+        },
+        {
+          "value": "    Killstreak Machina Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5796"
+          }
+        },
+        {
+          "value": "    Killstreak Baby Face's Blaster Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5797"
+          }
+        },
+        {
+          "value": "    Killstreak Huo-Long Heater Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5798"
+          }
+        },
+        {
+          "value": "    Killstreak Loose Cannon Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5799"
+          }
+        },
+        {
+          "value": "    Killstreak Vaccinator Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5800"
+          }
+        },
+        {
+          "value": "    Killstreak Air Strike Kit",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5801"
+          }
+        },
+        {
+          "value": "or an Exceedingly Rare Special Item!",
+          "color": "7ea9d1"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=5802&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "Supply Crate",
+          "name": "Crate",
+          "category": "Type",
+          "category_name": "Type"
+        }
+      ],
+      "app_data": {
+        "def_index": "5802",
+        "quality": "6"
+      }
+    },
+    "22989188_0": {
+      "appid": "440",
+      "classid": "22989188",
+      "instanceid": "0",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEFYw4CWBbjsz1Rt9DrDOGzBOESnN97t8QGiGM6yAMtNruxZTYwdAfGB_gPDfZjpAu8W3E0vpEyVtTn8u8DKBKv6tWDEmB72Q",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEFYw4CWBbjsz1Rt9DrDOGzBOESnN97t8QGiGM6yAMtNruxZTYwdAfGB_gPDfZjpAu8W3E0vpEyVtTn8u8DKBKv6tWDEmB72Q",
+      "icon_drag_url": "",
+      "name": "Noise Maker - Winter Holiday",
+      "market_hash_name": "Noise Maker - Winter Holiday",
+      "market_name": "Noise Maker - Winter Holiday",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Party Favor",
+      "tradable": 1,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Holiday Restriction: Smissmas",
+          "color": "756b5e"
+        },
+        {
+          "value": "Unlimited use",
+          "color": "7ea9d1"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=673&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "TF_Party_Favor",
+          "name": "Party Favor",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "673",
+        "quality": "6"
+      }
+    },
+    "780630690_0": {
+      "appid": "440",
+      "classid": "780630690",
+      "instanceid": "0",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIfgYFWCT0uSpKidzvAvyzBOESnN97ssQAi2VpxFR6MuKxZGNkc1CSVqILDfc7ol_qXn5k7J8yDIDi9u9TehKv6tXyIw0bbw",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIfgYFWCT0uSpKidzvAvyzBOESnN97ssQAi2VpxFR6MuKxZGNkc1CSVqILDfc7ol_qXn5k7J8yDIDi9u9TehKv6tXyIw0bbw",
+      "icon_drag_url": "",
+      "name": "Mann Co. Supply Munition Series #90",
+      "market_hash_name": "Mann Co. Supply Munition Series #90",
+      "market_name": "Mann Co. Supply Munition Series #90",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 20 Supply Crate",
+      "tradable": 1,
+      "marketable": 1,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Crate Series #90",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "You need a Mann Co. Supply Crate Key to open this.\nYou can pick one up at the Mann Co. Store."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "This crate contains one of the following items.\nWeapons will be Strange and Cosmetics might be Strange."
+        },
+        {
+          "value": "    Cow Mangler 5000 Strangifier",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5783"
+          }
+        },
+        {
+          "value": "    Third Degree Strangifier",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "5784"
+          }
+        },
+        {
+          "value": "    The Winger",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "449"
+          }
+        },
+        {
+          "value": "    Strange Part: Not Crit nor MiniCrit Kills",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "6063"
+          }
+        },
+        {
+          "value": "    Strange Part: Player Hits",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "6064"
+          }
+        },
+        {
+          "value": "    Strange Cosmetic Part: Assists",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "6065"
+          }
+        },
+        {
+          "value": "    Texas Ten Gallon",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "94"
+          }
+        },
+        {
+          "value": "    Frenchman's Beret",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "180"
+          }
+        },
+        {
+          "value": "    The AWPer Hand",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "851"
+          }
+        },
+        {
+          "value": "    The Ullapool Caber",
+          "color": "6F6A63",
+          "app_data": {
+            "def_index": "307"
+          }
+        },
+        {
+          "value": "or an Exceedingly Rare Special Item!",
+          "color": "7ea9d1"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=5781&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "Supply Crate",
+          "name": "Crate",
+          "category": "Type",
+          "category_name": "Type"
+        }
+      ],
+      "app_data": {
+        "def_index": "5781",
+        "quality": "6"
+      }
+    },
+    "2675_11040547": {
+      "appid": "440",
+      "classid": "2675",
+      "instanceid": "11040547",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbZQsUYhTkhzJWhsPZAfOeD-VOn4phtsdQ32ZtxFYoN7PkYmVmIgeaUKNaX_Rjpwy8UHMz6pcxAIfnovUWJ1t9nYFqYw",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbZQsUYhTkhzJWhsPZAfOeD-VOn4phtsdQ32ZtxFYoN7PkYmVmIgeaUKNaX_Rjpwy8UHMz6pcxAIfnovUWJ1t9nYFqYw",
+      "icon_drag_url": "",
+      "name": "Scrap Metal",
+      "market_hash_name": "Scrap Metal",
+      "market_name": "Scrap Metal",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 1 Craft Item",
+      "tradable": 1,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": "",
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=5000&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "Craft Item",
+          "name": "Craft Item",
+          "category": "Type",
+          "category_name": "Type"
+        }
+      ],
+      "app_data": {
+        "def_index": "5000",
+        "quality": "6"
+      }
+    },
+    "133210_23967788": {
+      "appid": "440",
+      "classid": "133210",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbRIfSR7mhzVGnMnqMv6NGucF1Y9stsUG3zQ9w1ciZeGwNmdiI1DEAKIOWPNirQ7vWXYwvJE0AYDhpu5IOVK4RBk9zx0",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbRIfSR7mhzVGnMnqMv6NGucF1Y9stsUG3zQ9w1ciZeGwNmdiI1DEAKIOWPNirQ7vWXYwvJE0AYDhpu5IOVK4RBk9zx0",
+      "icon_drag_url": "",
+      "name": "Unusual Haunted Metal Scrap",
+      "market_hash_name": "Unusual Haunted Metal Scrap",
+      "market_name": "Unusual Haunted Metal Scrap",
+      "name_color": "8650AC",
+      "background_color": "3C352E",
+      "type": "Level 4 Craft Item",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "This is metal scrap taken from the Horseless Headless Horsemann. It whispers faintly...'heads'..."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=267&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "rarity4",
+          "name": "Unusual",
+          "category": "Quality",
+          "color": "8650AC",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "Craft Item",
+          "name": "Craft Item",
+          "category": "Type",
+          "category_name": "Type"
+        }
+      ],
+      "app_data": {
+        "def_index": "267",
+        "quality": "5"
+      }
+    },
+    "780610881_23967825": {
+      "appid": "440",
+      "classid": "780610881",
+      "instanceid": "23967825",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEGegouSRLhsz1Xt8TnH_WJRuNVy49itMUB32JtklgoN7OzZTQxJFPEV_lfBa1irV-9C3Zr6sU6AdH457UBdvwbXdU",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEGegouSRLhsz1Xt8TnH_WJRuNVy49itMUB32JtklgoN7OzZTQxJFPEV_lfBa1irV-9C3Zr6sU6AdH457UBdvwbXdU",
+      "icon_drag_url": "",
+      "name": "Tour of Duty Ticket",
+      "market_hash_name": "Tour of Duty Ticket",
+      "market_name": "Tour of Duty Ticket",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 1 Ticket",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Present this ticket in Mann vs. Machine to play Mann Up Mode on an official server to earn rare items and track progress on your Tour of Duty Badge."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=725&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "Craft Item",
+          "name": "Craft Item",
+          "category": "Type",
+          "category_name": "Type"
+        }
+      ],
+      "app_data": {
+        "def_index": "725",
+        "quality": "6"
+      }
+    },
+    "780610886_23967825": {
+      "appid": "440",
+      "classid": "780610886",
+      "instanceid": "23967825",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEfbQAuURrwvz0N3Z6xX6ffDLhUy9xj5skA3GZolFkqYbCxNW4xcVbDBaEHBfY891zuDWki5sDLBQ4iqw",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEfbQAuURrwvz0N3Z6xX6ffDLhUy9xj5skA3GZolFkqYbCxNW4xcVbDBaEHBfY891zuDWki5sDLBQ4iqw",
+      "icon_drag_url": "",
+      "name": "Name Tag",
+      "market_hash_name": "Name Tag",
+      "market_name": "Name Tag",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 1 Tool",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Changes the name of an item in your backpack"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "This is a limited use item. Uses: 1",
+          "color": "00a000",
+          "app_data": {
+            "limited": 1
+          }
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=5020&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "TF_T",
+          "name": "Tool",
+          "category": "Type",
+          "category_name": "Type"
+        }
+      ],
+      "app_data": {
+        "quantity": "1",
+        "def_index": "5020",
+        "quality": "6"
+      }
+    },
+    "780610885_23967825": {
+      "appid": "440",
+      "classid": "780610885",
+      "instanceid": "23967825",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEMZQEFXAv3tCx8hMn0CvfCULYEzoNi4cEBiDI5yQMoZLqwZWAyIlbEAqIGD_M79QnuWHYx7JRgAJmm-bwEUYDlWQ",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEMZQEFXAv3tCx8hMn0CvfCULYEzoNi4cEBiDI5yQMoZLqwZWAyIlbEAqIGD_M79QnuWHYx7JRgAJmm-bwEUYDlWQ",
+      "icon_drag_url": "",
+      "name": "Giftapult",
+      "market_hash_name": "Giftapult",
+      "market_name": "Giftapult",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Tool",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Can be used to wrap one item for gifting. The gift will be distributed to a random Steam user currently playing TF2."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "This is a limited use item. Uses: 1",
+          "color": "00a000",
+          "app_data": {
+            "limited": 1
+          }
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=5083&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "TF_T",
+          "name": "Tool",
+          "category": "Type",
+          "category_name": "Type"
+        }
+      ],
+      "app_data": {
+        "quantity": "1",
+        "def_index": "5083",
+        "quality": "6"
+      }
+    },
+    "780611641_23967788": {
+      "appid": "440",
+      "classid": "780611641",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDewkuTgvntDRBh8ftMvuCC-8Ni9Yw8ZVq1Td5lgQ1Y7TgMzQ-IFySAPcMCKxpoFHqX39ruZZmUdXgpusDf1jq4dfPNOZ9OMYMQZe9RgddWQ",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDewkuTgvntDRBh8ftMvuCC-8Ni9Yw8ZVq1Td5lgQ1Y7TgMzQ-IFySAPcMCKxpoFHqX39ruZZmUdXgpusDf1jq4dfPNOZ9OMYMQZe9RgddWQ",
+      "icon_drag_url": "",
+      "name": "Unfilled Fancy Spellbook",
+      "market_hash_name": "Unfilled Fancy Spellbook",
+      "market_name": "Unfilled Fancy Spellbook",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 1 Spellbook\n",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Pages of Tumidum: 1",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "\nThis is a fine-looking spellbook, but it's still missing pages! Once it has enough pages, you'll be able to equip it and use it to cast spells."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=1068&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "Craft Item",
+          "name": "Craft Item",
+          "category": "Type",
+          "category_name": "Type"
+        }
+      ],
+      "app_data": {
+        "def_index": "1068",
+        "quality": "6"
+      }
+    },
+    "780610889_23967788": {
+      "appid": "440",
+      "classid": "780610889",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEJYwoTUhXttTFAh8bZAfOeD-VOnY1l48ECjm4zwQAoN7viYGBmKgGRUvdYWKZv8FHpWXY2sMZiBI-z9vUWJ1vPuTdk3Q",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEJYwoTUhXttTFAh8bZAfOeD-VOnY1l48ECjm4zwQAoN7viYGBmKgGRUvdYWKZv8FHpWXY2sMZiBI-z9vUWJ1vPuTdk3Q",
+      "icon_drag_url": "",
+      "name": "The Bombinomicon",
+      "market_hash_name": "The Bombinomicon",
+      "market_name": "The Bombinomicon",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 20 Badge",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Explode spectacularly on death",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "'If ye gaze upon one tome-themed badge this year, MAKE IT NOT THIS ONE!' - Merasmus the Magician'"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=583&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D9404151910208810331"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D9404151910208810331"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "583",
+        "quality": "6"
+      }
+    },
+    "13334022_23967788": {
+      "appid": "440",
+      "classid": "13334022",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEZaRcdXALdsDlXt8TnH_WJRrcCyYli5MRX2GE4wQQiYOftZDVkI1HHWKIGBKc79wzuDyZg7MM1AYL457UBLeBvkW4",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEZaRcdXALdsDlXt8TnH_WJRrcCyYli5MRX2GE4wQQiYOftZDVkI1HHWKIGBKc79wzuDyZg7MM1AYL457UBLeBvkW4",
+      "icon_drag_url": "",
+      "name": "Frontline Field Recorder",
+      "market_hash_name": "Frontline Field Recorder",
+      "market_name": "Frontline Field Recorder",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 20 Headgear",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "I'm the writer, the director, and the star."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=302&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D6956447899162826234"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D6956447899162826234"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "302",
+        "quality": "6"
+      }
+    },
+    "780610891_23967788": {
+      "appid": "440",
+      "classid": "780610891",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEMZAgCSRf7hz9Kit31MvaJBe8_l9sn4pUbgWEywFh_Y-HkNTYzJFSSWKYLXaQ_8gntW3VivZ40VtWw9b5UcQzttZyGbefeKjnVDw",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEMZAgCSRf7hz9Kit31MvaJBe8_l9sn4pUbgWEywFh_Y-HkNTYzJFSSWKYLXaQ_8gntW3VivZ40VtWw9b5UcQzttZyGbefeKjnVDw",
+      "icon_drag_url": "",
+      "name": "Ghostly Gibus",
+      "market_hash_name": "Ghostly Gibus",
+      "market_name": "Ghostly Gibus",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Hat",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Dominate a player wearing any achievement Gibus hat, collect the Ghostly Gibus, and take your rightful place on the Halloween-update-related-hat-throne."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=940&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D10268293820101563172"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D10268293820101563172"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "940",
+        "quality": "6"
+      }
+    },
+    "780610907_23969826": {
+      "appid": "440",
+      "classid": "780610907",
+      "instanceid": "23969826",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEYaDgDUhjpvSx8m9j_Mv6NGucF1d4xt8cG3DNoxlkubeftZ2Ezd1CSB_YLBKZuoFu8WH5r6ZA2DILuoOJIOVK4YRBpcFQ",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEYaDgDUhjpvSx8m9j_Mv6NGucF1d4xt8cG3DNoxlkubeftZ2Ezd1CSB_YLBKZuoFu8WH5r6ZA2DILuoOJIOVK4YRBpcFQ",
+      "icon_drag_url": "",
+      "name": "The Gentle Munitionne of Leisure",
+      "market_hash_name": "The Gentle Munitionne of Leisure",
+      "market_name": "The Gentle Munitionne of Leisure",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 96 Hat",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "This snappy all-class stovepipe commemorates man and monkey's joint attempt to conquer the heavens with a built-in rocket that, every year on the anniversary of the launch, might violently explode."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=774&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D4642864120220519862"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D4642864120220519862"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "774",
+        "quality": "6"
+      }
+    },
+    "331369_164496792": {
+      "appid": "440",
+      "classid": "331369",
+      "instanceid": "164496792",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgECaDgTXB_lvQdBmsfoF_ezBOESnN975sgC32I_xFV-MrvnMjNic1GUUKEND_Bu9l-4CHYz7sM7BY7j87gDfxKv6tWeoo5XMA",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgECaDgTXB_lvQdBmsfoF_ezBOESnN975sgC32I_xFV-MrvnMjNic1GUUKEND_Bu9l-4CHYz7sM7BY7j87gDfxKv6tWeoo5XMA",
+      "icon_drag_url": "",
+      "name": "Mercenary",
+      "market_hash_name": "Mercenary",
+      "market_name": "Mercenary",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Badge",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Hire Date: Friday, May 3, 2013 (21:49:52) GMT"
+        },
+        {
+          "value": "Even though you were late to the party, you were still the life of it."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=166&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D3316565228864291320"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D3316565228864291320"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "166",
+        "quality": "6"
+      }
+    },
+    "780610909_24230620": {
+      "appid": "440",
+      "classid": "780610909",
+      "instanceid": "24230620",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgETYRQuTg_nuTVUgMH1Gf6JN_MQguU55IJS3Hhpxgd-ZuDsNWFmJlbHBKQOCaNvoFm1Cn5hupJgBYO0pr9VK1-65tPALfByZ398vrrc",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgETYRQuTg_nuTVUgMH1Gf6JN_MQguU55IJS3Hhpxgd-ZuDsNWFmJlbHBKQOCaNvoFm1Cn5hupJgBYO0pr9VK1-65tPALfByZ398vrrc",
+      "icon_drag_url": "",
+      "name": "The Full Head of Steam",
+      "market_hash_name": "The Full Head of Steam",
+      "market_name": "The Full Head of Steam",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 41 Hat",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "You never took a break from cp_foundry, and now you can prove it with the actual steam whistle used to call the breaks you never took!"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=668&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D9945817517174496198"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D9945817517174496198"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "668",
+        "quality": "6"
+      }
+    },
+    "1336074005_24614981": {
+      "appid": "440",
+      "classid": "1336074005",
+      "instanceid": "24614981",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgETYRQuXBfuuzRCm9vZCvuKHOIBn90w2pxUyzFu3wJ4Yua0NjIyKlDEUfkNXqBroA7qDXEz7p9iBtHioesHLwnpsIvEZ7QycIYbTv20z5o",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgETYRQuXBfuuzRCm9vZCvuKHOIBn90w2pxUyzFu3wJ4Yua0NjIyKlDEUfkNXqBroA7qDXEz7p9iBtHioesHLwnpsIvEZ7QycIYbTv20z5o",
+      "icon_drag_url": "",
+      "name": "The Spirit of Giving",
+      "market_hash_name": "Strange Spirit of Giving",
+      "market_name": "Strange Spirit of Giving",
+      "name_color": "CF6A32",
+      "background_color": "3C352E",
+      "type": "The Badge - Gifts Given: 0",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "The more gifts you give away, the bigger your heart will get! Get what gift-givers call \"the Smissmas spirit,\" and what cardiologists call hypertrophic cardiomyopathy."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=655&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D14439216453446948821"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D14439216453446948821"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "strange",
+          "name": "Strange",
+          "category": "Quality",
+          "color": "CF6A32",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "655",
+        "quality": "11"
+      }
+    },
+    "780610897_23967788": {
+      "appid": "440",
+      "classid": "780610897",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbRIfSR7mhz1ajcrnAf6zAOEUpNY095dQlzI5yVkiNbDiYWNiIwLGUaZcCvZqo1u7C3EwvcYzA9G1prhWfA-7vIHYc-57angt8Yc",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbRIfSR7mhz1ajcrnAf6zAOEUpNY095dQlzI5yVkiNbDiYWNiIwLGUaZcCvZqo1u7C3EwvcYzA9G1prhWfA-7vIHYc-57angt8Yc",
+      "icon_drag_url": "",
+      "name": "The MONOCULUS!",
+      "market_hash_name": "The MONOCULUS!",
+      "market_name": "The MONOCULUS!",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 31 Hat",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Holiday Restriction: Halloween \/ Full Moon",
+          "color": "756b5e"
+        },
+        {
+          "value": "Celebrate the Demo's most serious childhood injury with this gruesome mask based on his missing, haunted eye."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=581&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D11693080616588575179"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D11693080616588575179"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "581",
+        "quality": "6"
+      }
+    },
+    "330502_23967788": {
+      "appid": "440",
+      "classid": "330502",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEKYAsuVRrutDdUjc3oMv6NGucF1Yo0sMYCjzM8lVkoYeHmaTY2KwWWBPNbDKNqrAy1C3Vlv5A1Bo6y8epIOVK4146oSy4",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEKYAsuVRrutDdUjc3oMv6NGucF1Yo0sMYCjzM8lVkoYeHmaTY2KwWWBPNbDKNqrAy1C3Vlv5A1Bo6y8epIOVK4146oSy4",
+      "icon_drag_url": "",
+      "name": "Mildly Disturbing Halloween Mask",
+      "market_hash_name": "Mildly Disturbing Halloween Mask",
+      "market_name": "Mildly Disturbing Halloween Mask",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Holiday Hat",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Holiday Restriction: Halloween \/ Full Moon",
+          "color": "756b5e"
+        },
+        {
+          "value": "Brown paper never looked so mildly disturbing."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=115&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D12558508203223483475"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D12558508203223483475"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "115",
+        "quality": "6"
+      }
+    },
+    "29177_23967788": {
+      "appid": "440",
+      "classid": "29177",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbeQoaVBXdsDlXt8TnH_WJRuVXyN9ksZYBiWczwVB9ZLW3NDFmIwWQV6FbWaE4ogq1WnJl6sEwUYT457UB_iGk11I",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbeQoaVBXdsDlXt8TnH_WJRuVXyN9ksZYBiWczwVB9ZLW3NDFmIwWQV6FbWaE4ogq1WnJl6sEwUYT457UB_iGk11I",
+      "icon_drag_url": "",
+      "name": "Horseless Headless Horsemann's Head",
+      "market_hash_name": "Horseless Headless Horsemann's Head",
+      "market_name": "Horseless Headless Horsemann's Head",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 31 Hat",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Holiday Restriction: Halloween \/ Full Moon",
+          "color": "d83636"
+        },
+        {
+          "value": "He had one all along..."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=278&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D4811542086709128016"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D4811542086709128016"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "278",
+        "quality": "6"
+      }
+    },
+    "780610911_23967788": {
+      "appid": "440",
+      "classid": "780610911",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEGaRUQThb3qwdQg93qAc2ACfIHnpRs5JJXj29pkFgtZuflZjI1cVOWV_cMCKdpoF-6XiZj6p5nAI7uru4HZ0yx4ximIjox",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEGaRUQThb3qwdQg93qAc2ACfIHnpRs5JJXj29pkFgtZuflZjI1cVOWV_cMCKdpoF-6XiZj6p5nAI7uru4HZ0yx4ximIjox",
+      "icon_drag_url": "",
+      "name": "The Skull Island Topper",
+      "market_hash_name": "The Skull Island Topper",
+      "market_name": "The Skull Island Topper",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 31 Hat",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "This terrifying (innocuous) witching cap was found by the all-powerful (mediocre) wizard Merasmus in the depths of the Hades Spiral (right near the entrance of the Hades Spiral)."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=941&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D5206876647713283013"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D5206876647713283013"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "941",
+        "quality": "6"
+      }
+    },
+    "62860903_24230620": {
+      "appid": "440",
+      "classid": "62860903",
+      "instanceid": "24230620",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbdRUeSxLxsTdNt8_pCvWADfM_k98084lq1Td5lgQ1NbfhZDIyIwaSWfQKBPY_9ly-DHQzsJ43Uofj8uhXfwy7s9TPNLUuY8YMQZf76ZcBag",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbdRUeSxLxsTdNt8_pCvWADfM_k98084lq1Td5lgQ1NbfhZDIyIwaSWfQKBPY_9ly-DHQzsJ43Uofj8uhXfwy7s9TPNLUuY8YMQZf76ZcBag",
+      "icon_drag_url": "",
+      "name": "Pyrovision Goggles",
+      "market_hash_name": "Pyrovision Goggles",
+      "market_name": "Pyrovision Goggles",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 41 Pyrovision Goggles",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "On Equip: Visit Pyroland",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Enter a world of imagination that's far superior to the crap-ass worlds of imagination you get from books. Pyrovision lets you see the TF2niverse from our favorite arsonist's perspective."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=744&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D2469703451436824102"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D2469703451436824102"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "744",
+        "quality": "6"
+      }
+    },
+    "780610915_23971520": {
+      "appid": "440",
+      "classid": "780610915",
+      "instanceid": "23971520",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEAfg4FRyTtqgdXms3nGc2PCe4Unt872pxUyzFu31MtMrflMmMyJ1CWVqMJBKM5pw7uCCJnusQ3A4Duo-lUf1q5sNHHZbcycIYbbA0cK2A",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEAfg4FRyTtqgdXms3nGc2PCe4Unt872pxUyzFu31MtMrflMmMyJ1CWVqMJBKM5pw7uCCJnusQ3A4Duo-lUf1q5sNHHZbcycIYbbA0cK2A",
+      "icon_drag_url": "",
+      "name": "The Kritz or Treat Canteen",
+      "market_hash_name": "The Kritz or Treat Canteen",
+      "market_name": "The Kritz or Treat Canteen",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 73 Usable Item",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Holiday Restriction: Halloween \/ Full Moon",
+          "color": "d83636"
+        },
+        {
+          "value": "Holds a maximum of 3 charges",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Currently holds 0 charges",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Each charge lasts 5 seconds",
+          "color": "7ea9d1"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable, Marketable, or Usable in Crafting )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=30535&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "TF_UsableItem",
+          "name": "Usable Item",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "30535",
+        "quality": "6"
+      }
+    },
+    "22989188_23967790": {
+      "appid": "440",
+      "classid": "22989188",
+      "instanceid": "23967790",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEFYw4CWBbjsz1Rt9DrDOGzBOESnN97t8QGiGM6yAMtNruxZTYwdAfGB_gPDfZjpAu8W3E0vpEyVtTn8u8DKBKv6tWDEmB72Q",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEFYw4CWBbjsz1Rt9DrDOGzBOESnN97t8QGiGM6yAMtNruxZTYwdAfGB_gPDfZjpAu8W3E0vpEyVtTn8u8DKBKv6tWDEmB72Q",
+      "icon_drag_url": "",
+      "name": "Noise Maker - Winter Holiday",
+      "market_hash_name": "Noise Maker - Winter Holiday",
+      "market_name": "Noise Maker - Winter Holiday",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Party Favor",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Holiday Restriction: Smissmas",
+          "color": "756b5e"
+        },
+        {
+          "value": "Unlimited use",
+          "color": "7ea9d1"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=673&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "TF_Party_Favor",
+          "name": "Party Favor",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "673",
+        "quality": "6"
+      }
+    },
+    "73625845_24269228": {
+      "appid": "440",
+      "classid": "73625845",
+      "instanceid": "24269228",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbYxAUTw7yujdXnMTjMv6NGucF1d9stpYDgDI6yVArMbq3ZjQ_cFHHWPAMBPNp8lC8DHRhsZVlVdLl9r5IOVK43gpEMGA",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbYxAUTw7yujdXnMTjMv6NGucF1d9stpYDgDI6yVArMbq3ZjQ_cFHHWPAMBPNp8lC8DHRhsZVlVdLl9r5IOVK43gpEMGA",
+      "icon_drag_url": "",
+      "name": "Power Up Canteen",
+      "market_hash_name": "Power Up Canteen",
+      "market_name": "Power Up Canteen",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 57 Usable Item",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Holds a maximum of 3 charges",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Currently holds 0 charges",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Each charge lasts 5 seconds",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Applies a bonus effect for a limited amount of time when used. Must first be filled at an Upgrade Station and can only be filled with one bonus type at a time."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=489&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "TF_UsableItem",
+          "name": "Usable Item",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "489",
+        "quality": "6"
+      }
+    },
+    "13251699_23967788": {
+      "appid": "440",
+      "classid": "13251699",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEfbRIfSSTwvShPidHZAfOeD-VOn95t4cdTjTA4lVUuZrbkZWI_JgXDU_kGCaQ48V7vX3BqsJNgV4CwpvUWJ1tC_uqNsg",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEfbRIfSSTwvShPidHZAfOeD-VOn95t4cdTjTA4lVUuZrbkZWI_JgXDU_kGCaQ48V7vX3BqsJNgV4CwpvUWJ1tC_uqNsg",
+      "icon_drag_url": "",
+      "name": "Taunt: The Director's Vision",
+      "market_hash_name": "Taunt: The Director's Vision",
+      "market_name": "Taunt: The Director's Vision",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Special Taunt",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "All Class Taunt\nEquip this item in a Taunt Slot. Activate to tell your victims you are making a Replay of their pathetic demise to share with everyone."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=438&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D2307152430664994652"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D2307152430664994652"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "taunt",
+          "name": "Taunt 1",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "438",
+        "quality": "6"
+      }
+    },
+    "108_23967788": {
+      "appid": "440",
+      "classid": "108",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwMeSBnuvQdBidr0CP6zBOESnN97vJFXim5qyFUpMOW3ZG8_JFaaBfBdCPE4rAq8DHJr7sI2A9W39u4HLBKv6tVYdY192A",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwMeSBnuvQdBidr0CP6zBOESnN97vJFXim5qyFUpMOW3ZG8_JFaaBfBdCPE4rAq8DHJr7sI2A9W39u4HLBKv6tVYdY192A",
+      "icon_drag_url": "",
+      "name": "The Force-A-Nature",
+      "market_hash_name": "The Force-A-Nature",
+      "market_name": "The Force-A-Nature",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Scattergun",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "+50% faster firing speed",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Knockback on the target and shooter",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "+20% bullets per shot",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-10% damage penalty",
+          "color": "d83636"
+        },
+        {
+          "value": "-66% clip size",
+          "color": "d83636"
+        },
+        {
+          "value": "This weapon reloads its entire clip at once"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=45&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "primary",
+          "name": "Primary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "45",
+        "quality": "6"
+      }
+    },
+    "67_23967788": {
+      "appid": "440",
+      "classid": "67",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwIfWAnloQdHmsHoBs2ACfIHnpQwscNXgTQ6lQciZOG3YGQwKlfDAqMKD6NuoQy-WXUz7MVnBNPu871WZ0yx45puAgH_",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwIfWAnloQdHmsHoBs2ACfIHnpQwscNXgTQ6lQciZOG3YGQwKlfDAqMKD6NuoQy-WXUz7MVnBNPu871WZ0yx45puAgH_",
+      "icon_drag_url": "",
+      "name": "Bonk! Atomic Punch",
+      "market_hash_name": "Bonk! Atomic Punch",
+      "market_name": "Bonk! Atomic Punch",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Lunch Box",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Drink to become invulnerable for 8 seconds.  Cannot attack during this time.\nDamage absorbed will slow you when the effect ends."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=46&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "46",
+        "quality": "6"
+      }
+    },
+    "104_23967788": {
+      "appid": "440",
+      "classid": "104",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxAeUh_ntgdBidzZAfOeD-VOz9s0vMAM3WRtwwcsNuGwZzJjc1SVUKQJDq1u91zvW3Uw7sQ7ANPm8fUWJ1sZuDp64A",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxAeUh_ntgdBidzZAfOeD-VOz9s0vMAM3WRtwwcsNuGwZzJjc1SVUKQJDq1u91zvW3Uw7sQ7ANPm8fUWJ1sZuDp64A",
+      "icon_drag_url": "",
+      "name": "The Sandman",
+      "market_hash_name": "The Sandman",
+      "market_name": "The Sandman",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 15 Bat",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Alt-Fire: Launches a ball that slows opponents",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-15 max health on wearer",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=44&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "44",
+        "quality": "6"
+      }
+    },
+    "780610893_23967788": {
+      "appid": "440",
+      "classid": "780610893",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwQQTxXrrjlPt8XnAf6JHN8Mmsgy4N4Fi2Q7wQN4beazZGZmJlKTVvlbD6BurF65X3BrvZRlA4K3pLpSLV65qsKYZGC7kCUi",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwQQTxXrrjlPt8XnAf6JHN8Mmsgy4N4Fi2Q7wQN4beazZGZmJlKTVvlbD6BurF65X3BrvZRlA4K3pLpSLV65qsKYZGC7kCUi",
+      "icon_drag_url": "",
+      "name": "The Necro Smasher",
+      "market_hash_name": "The Necro Smasher",
+      "market_name": "The Necro Smasher",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 50 Hammer",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": ""
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=1123&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Scout",
+          "name": "Scout",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "1123",
+        "quality": "6"
+      }
+    },
+    "780611056_23967825": {
+      "appid": "440",
+      "classid": "780611056",
+      "instanceid": "23967825",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxQIWRXnoQdQhM3jHfeeN-wBid0wq8AC2mc4wAMjYua3Nm82IFfHVqILBfZv8A3vWHIzuMUxAdXir-NeeF_x9NyRrkq1V_Q",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxQIWRXnoQdQhM3jHfeeN-wBid0wq8AC2mc4wAMjYua3Nm82IFfHVqILBfZv8A3vWHIzuMUxAdXir-NeeF_x9NyRrkq1V_Q",
+      "icon_drag_url": "",
+      "name": "The Sydney Sleeper",
+      "market_hash_name": "The Sydney Sleeper",
+      "market_name": "The Sydney Sleeper",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 1 Sniper Rifle",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "+25% charge rate",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "On Scoped Hit: Apply Jarate for 2 to 5 seconds based on charge level.\nNature's Call: Scoped headshots always mini-crit and reduce the remaining cooldown of Jarate by 1 second.",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "No random critical hits",
+          "color": "d83636"
+        },
+        {
+          "value": "No headshots",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "The Croc-o-Style Kit",
+          "color": "e1e10f",
+          "app_data": {
+            "def_index": "2003",
+            "is_itemset_name": 1
+          }
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "The Sydney Sleeper",
+          "color": "8b8989",
+          "app_data": {
+            "def_index": "230"
+          }
+        },
+        {
+          "value": "Darwin's Danger Shield",
+          "color": "8b8989",
+          "app_data": {
+            "def_index": "231"
+          }
+        },
+        {
+          "value": "The Bushwacka",
+          "color": "8b8989",
+          "app_data": {
+            "def_index": "232"
+          }
+        },
+        {
+          "value": "Ol' Snaggletooth",
+          "color": "8b8989",
+          "app_data": {
+            "def_index": "229"
+          }
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "Item Set Bonus:",
+          "color": "e1e10f"
+        },
+        {
+          "value": "Leave a Calling Card on your victims",
+          "color": "8b8989"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=230&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "primary",
+          "name": "Primary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "230",
+        "quality": "6"
+      }
+    },
+    "137_23967788": {
+      "appid": "440",
+      "classid": "137",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUeSiTuuSpEjYa0XfHcX7FSzY0xt8QEi24-kFYoZ7flZGQ0dAGTB_RfX6Nrp13pXCU0ptdtU0RvzSF9",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUeSiTuuSpEjYa0XfHcX7FSzY0xt8QEi24-kFYoZ7flZGQ0dAGTB_RfX6Nrp13pXCU0ptdtU0RvzSF9",
+      "icon_drag_url": "",
+      "name": "The Huntsman",
+      "market_hash_name": "The Huntsman",
+      "market_name": "The Huntsman",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Bow",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=56&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "primary",
+          "name": "Primary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "56",
+        "quality": "6"
+      }
+    },
+    "75_23967788": {
+      "appid": "440",
+      "classid": "75",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEefg4fWBHjqgdPidrhCLyICrIBzog25scFjmU5lwUrZrGwYjQ3cFORUKMHC6Bs9wntWHBmvcYxGse48K_38etU",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEefg4fWBHjqgdPidrhCLyICrIBzog25scFjmU5lwUrZrGwYjQ3cFORUKMHC6Bs9wntWHBmvcYxGse48K_38etU",
+      "icon_drag_url": "",
+      "name": "Jarate",
+      "market_hash_name": "Jarate",
+      "market_name": "Jarate",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Jar Based Karate",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Coated enemies take mini-crits\nCan be used to extinguish fires"
+        },
+        {
+          "value": "Extinguishing teammates reduces cooldown by -20%",
+          "color": "7ea9d1"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=58&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "58",
+        "quality": "6"
+      }
+    },
+    "66_23967788": {
+      "appid": "440",
+      "classid": "66",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEAYg4XWCTxsDFGhMzZAfOeD-VOn4xmsJQH2mM_x1EoZrfiZmVkcFSUWfZbDPE-oQ3tCHBgu5I6AoGzo_UWJ1vLhFZfZg",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEAYg4XWCTxsDFGhMzZAfOeD-VOn4xmsJQH2mM_x1EoZrfiZmVkcFSUWfZbDPE-oQ3tCHBgu5I6AoGzo_UWJ1vLhFZfZg",
+      "icon_drag_url": "",
+      "name": "The Razorback",
+      "market_hash_name": "The Razorback",
+      "market_name": "The Razorback",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Shield",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Blocks a single backstab attempt",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-100% maximum overheal on wearer",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=57&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Sniper",
+          "name": "Sniper",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "57",
+        "quality": "6"
+      }
+    },
+    "118_23967788": {
+      "appid": "440",
+      "classid": "118",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwMYTx7hrDBKnPfqDOCLDa5Tyt5i4MYEiTVvxwUiNrLmM2djdFKVVaIKWqZuoAq9WHRhuJQxB4DiuasILvZuJGWS",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwMYTx7hrDBKnPfqDOCLDa5Tyt5i4MYEiTVvxwUiNrLmM2djdFKVVaIKWqZuoAq9WHRhuJQxB4DiuasILvZuJGWS",
+      "icon_drag_url": "",
+      "name": "The Direct Hit",
+      "market_hash_name": "The Direct Hit",
+      "market_name": "The Direct Hit",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 1 Rocket Launcher",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "+25% damage bonus",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "+80% projectile speed",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Mini-crits targets launched airborne by explosions, grapple hooks or rocket packs",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-70% explosion radius",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=127&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "primary",
+          "name": "Primary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "127",
+        "quality": "6"
+      }
+    },
+    "371_23967788": {
+      "appid": "440",
+      "classid": "371",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUEWx3yuTtIt8TnH_WJRuZSmd9m4MUGj2JpwwQrZ-XtM2c1IFGXA_cID_dtogm7D3E3v5NmBYP457UBa8EuN5Q",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUEWx3yuTtIt8TnH_WJRuZSmd9m4MUGj2JpwwQrZ-XtM2c1IFGXA_cID_dtogm7D3E3v5NmBYP457UBa8EuN5Q",
+      "icon_drag_url": "",
+      "name": "The Buff Banner",
+      "market_hash_name": "The Buff Banner",
+      "market_name": "The Buff Banner",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Battle Banner",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Provides an offensive buff that causes\nnearby team members to do mini-crits.\nRage increases through damage done."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=129&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "129",
+        "quality": "6"
+      }
+    },
+    "81_23967788": {
+      "appid": "440",
+      "classid": "81",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxcYXhDjoD18m5rZAfOeD-VOwow245UHiGRtlVd4Y-K3Mm4yKwGXB_YNC_dpoAzuWSNn7p4wA9K3oPUWJ1sEtEon8w",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxcYXhDjoD18m5rZAfOeD-VOwow245UHiGRtlVd4Y-K3Mm4yKwGXB_YNC_dpoAzuWSNn7p4wA9K3oPUWJ1sEtEon8w",
+      "icon_drag_url": "",
+      "name": "The Equalizer",
+      "market_hash_name": "The Equalizer",
+      "market_name": "The Equalizer",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Pickaxe",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "When weapon is active:"
+        },
+        {
+          "value": "Damage increases as the user becomes injured",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-90% less healing from Medic sources",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=128&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Soldier",
+          "name": "Soldier",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "128",
+        "quality": "6"
+      }
+    },
+    "53_24234480": {
+      "appid": "440",
+      "classid": "53",
+      "instanceid": "24234480",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxMQTxznhzRCms_jQ6qIWuJRn4xn4cBQjWVqwlEoMOXtNmI3JVXHVaEJDaU_8Aq4CiE27pMtRNmxNoo4FnA",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxMQTxznhzRCms_jQ6qIWuJRn4xn4cBQjWVqwlEoMOXtNmI3JVXHVaEJDaU_8Aq4CiE27pMtRNmxNoo4FnA",
+      "icon_drag_url": "",
+      "name": "The Chargin' Targe",
+      "market_hash_name": "The Chargin' Targe",
+      "market_name": "The Chargin' Targe",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Shield",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "+50% fire damage resistance on wearer",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "+30% explosive damage resistance on wearer",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Alt-Fire: Charge toward your enemies and remove debuffs.\nGain a critical melee strike after impacting an enemy at distance."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=131&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "131",
+        "quality": "6"
+      }
+    },
+    "97_23967788": {
+      "appid": "440",
+      "classid": "97",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEcUxQFVBjpoTpMhcrZCfeKDe4EnsgK6ZFH3jMlxAR5Z7fsY2Y-IAeQVvgMWaw7pFu1CyQ07cFgDY-1orkDKwzs5dDPNK5sbo8uLvBU-Q",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEcUxQFVBjpoTpMhcrZCfeKDe4EnsgK6ZFH3jMlxAR5Z7fsY2Y-IAeQVvgMWaw7pFu1CyQ07cFgDY-1orkDKwzs5dDPNK5sbo8uLvBU-Q",
+      "icon_drag_url": "",
+      "name": "The Scottish Resistance",
+      "market_hash_name": "The Scottish Resistance",
+      "market_name": "The Scottish Resistance",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Stickybomb Launcher",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "+25% faster firing speed",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "+50% max secondary ammo on wearer",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "+6 max pipebombs out",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Detonates stickybombs near the crosshair and directly under your feet",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Able to destroy enemy stickybombs",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "0.8 sec slower bomb arm time",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=130&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "130",
+        "quality": "6"
+      }
+    },
+    "132_23967788": {
+      "appid": "440",
+      "classid": "132",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwQdXALvtypGt8TnH_WJRrdRyNhjs8cFimY-yVEjYrbsYGZiJgWUBKUOCvdj8lC0CiVi6ZdmDYb457UBC17RvN0",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwQdXALvtypGt8TnH_WJRrdRyNhjs8cFimY-yVEjYrbsYGZiJgWUBKUOCvdj8lC0CiVi6ZdmDYb457UBC17RvN0",
+      "icon_drag_url": "",
+      "name": "The Eyelander",
+      "market_hash_name": "The Eyelander",
+      "market_name": "The Eyelander",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Sword",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "This Weapon has a large melee range and\ndeploys and holsters slower"
+        },
+        {
+          "value": "No random critical hits",
+          "color": "d83636"
+        },
+        {
+          "value": "-25 max health on wearer",
+          "color": "d83636"
+        },
+        {
+          "value": "Gives increased speed and health\nwith every head you take."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=132&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "132",
+        "quality": "6"
+      }
+    },
+    "780612154_23967825": {
+      "appid": "440",
+      "classid": "780612154",
+      "instanceid": "23967825",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUQSQ_uvTlbjffqDOCLDa5Vwo9i5skM3286yAR6MrTmNmNhJgXAV6YNDaY_8VnuD380v5UzA9K1uasILs5t5dNb",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUQSQ_uvTlbjffqDOCLDa5Vwo9i5skM3286yAR6MrTmNmNhJgXAV6YNDaY_8VnuD380v5UzA9K1uasILs5t5dNb",
+      "icon_drag_url": "",
+      "name": "The Scotsman's Skullcutter",
+      "market_hash_name": "The Scotsman's Skullcutter",
+      "market_name": "The Scotsman's Skullcutter",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Axe",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "When weapon is active:"
+        },
+        {
+          "value": "This Weapon has a large melee range and\ndeploys and holsters slower"
+        },
+        {
+          "value": "+20% damage bonus",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "15% slower move speed on wearer",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=172&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D4768434741515949998"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D4768434741515949998"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "172",
+        "quality": "6"
+      }
+    },
+    "1336078061_629326981": {
+      "appid": "440",
+      "classid": "1336078061",
+      "instanceid": "629326981",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEYalZFYh_nuTxIgcbhMuKNHewEidU79q9Z2CRslE99ZrazNDJmJAWSBPgHX_ZtrVu4XHY3u8ExUo_koL1WLVi74dHOO-MqLpgSSOxqBR7M",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEYalZFYh_nuTxIgcbhMuKNHewEidU79q9Z2CRslE99ZrazNDJmJAWSBPgHX_ZtrVu4XHY3u8ExUo_koL1WLVi74dHOO-MqLpgSSOxqBR7M",
+      "icon_drag_url": "",
+      "name": "Strange Haunted Forgotten King's Pauldrons",
+      "market_hash_name": "Strange Haunted Forgotten King's Pauldrons",
+      "market_name": "Strange Haunted Forgotten King's Pauldrons",
+      "name_color": "38f3ab",
+      "background_color": "3C352E",
+      "type": "Strange Costume Piece - Carnival Kills: 0",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "(Carnival Underworld Kills: 0)",
+          "color": "756b5e"
+        },
+        {
+          "value": "(Carnival Games Won: 0)",
+          "color": "756b5e"
+        },
+        {
+          "value": "Holiday Restriction: Halloween \/ Full Moon",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "The Forgotten King",
+          "color": "e1e10f",
+          "app_data": {
+            "is_itemset_name": 1
+          }
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "The Forgotten King's Restless Head",
+          "color": "8b8989",
+          "app_data": {
+            "def_index": "30516"
+          }
+        },
+        {
+          "value": "The Forgotten King's Pauldrons",
+          "color": "8b8989",
+          "app_data": {
+            "def_index": "30517"
+          }
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable, Marketable, or Usable in Crafting )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=30517&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D9480404000388531587"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D9480404000388531587"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "haunted",
+          "name": "Haunted",
+          "category": "Quality",
+          "color": "38f3ab",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Demoman",
+          "name": "Demoman",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "30517",
+        "quality": "13"
+      }
+    },
+    "131_23967788": {
+      "appid": "440",
+      "classid": "131",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwsUWBjqvy1Nt8TnH_WJRuIDmI1kvJJTjjAzyFl4MrThMTQwdAXDA6JaWaI79li-X3Nm6pQ1Vob457UBFM06SEc",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwsUWBjqvy1Nt8TnH_WJRuIDmI1kvJJTjjAzyFl4MrThMTQwdAXDA6JaWaI79li-X3Nm6pQ1Vob457UBFM06SEc",
+      "icon_drag_url": "",
+      "name": "The Blutsauger",
+      "market_hash_name": "The Blutsauger",
+      "market_name": "The Blutsauger",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Syringe Gun",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "On Hit: Gain up to +3 health",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-2 health regenerated per second on wearer",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=36&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "primary",
+          "name": "Primary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "36",
+        "quality": "6"
+      }
+    },
+    "47_23967788": {
+      "appid": "440",
+      "classid": "47",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwgHWAnqvTlPjdrZAfOeD-VOmt9h58kA3WY-kAAiZ-HkM2M1IVSSVvgOBKQ49Vu_XHBmvZYwBIfjr_UWJ1saY-ME6A",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwgHWAnqvTlPjdrZAfOeD-VOmt9h58kA3WY-kAAiZ-HkM2M1IVSSVvgOBKQ49Vu_XHBmvZYwBIfjr_UWJ1saY-ME6A",
+      "icon_drag_url": "",
+      "name": "The Kritzkrieg",
+      "market_hash_name": "The Kritzkrieg",
+      "market_name": "The Kritzkrieg",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 8 Medi Gun",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "ÜberCharge grants 100% critical chance"
+        },
+        {
+          "value": "+25% ÜberCharge rate",
+          "color": "7ea9d1"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=35&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "35",
+        "quality": "6"
+      }
+    },
+    "324_23967788": {
+      "appid": "440",
+      "classid": "324",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxITWAnxuS98hMn0CvfCCbcGyNtivJMH3TU5l1MoMrOwZWcxIgaRVqQLBKQ5pQ68DH42vpIwUpmm-bzmnodrQQ",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxITWAnxuS98hMn0CvfCCbcGyNtivJMH3TU5l1MoMrOwZWcxIgaRVqQLBKQ5pQ68DH42vpIwUpmm-bzmnodrQQ",
+      "icon_drag_url": "",
+      "name": "The Ubersaw",
+      "market_hash_name": "The Ubersaw",
+      "market_name": "The Ubersaw",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Bonesaw",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "On Hit: 25% ÜberCharge added",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "20% slower firing speed",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=37&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D4620693633435831207"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D4620693633435831207"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Medic",
+          "name": "Medic",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "37",
+        "quality": "6"
+      }
+    },
+    "82_23967788": {
+      "appid": "440",
+      "classid": "82",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxAuUQ7mtTFPiffqDOCLDa5Sz9xi5MVRi284xgIiNuC2aWQ3IAHAAKIGXqFv917vC3E0v5RiDdLkuasILupqt6S-",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxAuUQ7mtTFPiffqDOCLDa5Sz9xi5MVRi284xgIiNuC2aWQ3IAHAAKIGXqFv917vC3E0v5RiDdLkuasILupqt6S-",
+      "icon_drag_url": "",
+      "name": "Natascha",
+      "market_hash_name": "Natascha",
+      "market_name": "Natascha",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Minigun",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "On Hit: 100% chance to slow target",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-20% damage resistance when below 50% health and spun up",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-25% damage penalty",
+          "color": "d83636"
+        },
+        {
+          "value": "30% slower spin up time",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=41&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "primary",
+          "name": "Primary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "41",
+        "quality": "6"
+      }
+    },
+    "130_23967788": {
+      "appid": "440",
+      "classid": "130",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxQQUx_1sTtLt8TnH_WJRuUBzdttt5ENiGE8lQcvNuLgNmY-dAGVUaQLDa1p8FC0USFj7ZE7UdP457UBiwGRoAk",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxQQUx_1sTtLt8TnH_WJRuUBzdttt5ENiGE8lQcvNuLgNmY-dAGVUaQLDa1p8FC0USFj7ZE7UdP457UBiwGRoAk",
+      "icon_drag_url": "",
+      "name": "The Sandvich",
+      "market_hash_name": "The Sandvich",
+      "market_name": "The Sandvich",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 1 Lunch Box",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Eat to regain up to 300 health.\nAlt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=42&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "42",
+        "quality": "6"
+      }
+    },
+    "125_23967788": {
+      "appid": "440",
+      "classid": "125",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUeRRLsvwdEhMfwCOGzBOESnN975sdUgGEyyFl-MufiYGMzKlGVUqUNWPFu9w65WCJm7pVhB9Tlo78CcBKv6tWPXL7Grw",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUeRRLsvwdEhMfwCOGzBOESnN975sdUgGEyyFl-MufiYGMzKlGVUqUNWPFu9w65WCJm7pVhB9Tlo78CcBKv6tWPXL7Grw",
+      "icon_drag_url": "",
+      "name": "The Killing Gloves of Boxing",
+      "market_hash_name": "The Killing Gloves of Boxing",
+      "market_name": "The Killing Gloves of Boxing",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 7 Boxing Gloves",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "On Kill: 5 seconds of 100% critical chance",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "20% slower firing speed",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=43&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Heavy",
+          "name": "Heavy",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "43",
+        "quality": "6"
+      }
+    },
+    "129_23967788": {
+      "appid": "440",
+      "classid": "129",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUQXhDgrSpNjdrZAfOeD-VOzd8xsZUFgGc4wVEuNruxZG81JAWbWfIIC_ZjrQ20WnJk6cMxVYWyovUWJ1uvVByBiQ",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwUQXhDgrSpNjdrZAfOeD-VOzd8xsZUFgGc4wVEuNruxZG81JAWbWfIIC_ZjrQ20WnJk6cMxVYWyovUWJ1uvVByBiQ",
+      "icon_drag_url": "",
+      "name": "The Backburner",
+      "market_hash_name": "The Backburner",
+      "market_name": "The Backburner",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Flame Thrower",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "100% critical hits from behind",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Extinguishing teammates restores 20 health",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "+150% airblast cost",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=40&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "primary",
+          "name": "Primary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "40",
+        "quality": "6"
+      }
+    },
+    "320_23967788": {
+      "appid": "440",
+      "classid": "320",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwEdXAnnvy1Nt9j_H_2zBOESnN974MYDimc5xFV9YLHkYGBhIgKRWfEJXvFpplm1XnY2vJEyUtW0prkFfBKv6tVkl18kbQ",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwEdXAnnvy1Nt9j_H_2zBOESnN974MYDimc5xFV9YLHkYGBhIgKRWfEJXvFpplm1XnY2vJEyUtW0prkFfBKv6tVkl18kbQ",
+      "icon_drag_url": "",
+      "name": "The Flare Gun",
+      "market_hash_name": "The Flare Gun",
+      "market_name": "The Flare Gun",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Flare Gun",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "100% critical hit vs burning players",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "This weapon will reload when not active"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=39&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "39",
+        "quality": "6"
+      }
+    },
+    "86_23967788": {
+      "appid": "440",
+      "classid": "86",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwYJSRLsvy1Km8DjH82cEfIPpNY095dQlzU9xgd-Z7vgNGZmc1GSB_laXq04oli8WHdiuZ40V9Syru0HegXmtoDYc-57hPrnlJA",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwYJSRLsvy1Km8DjH82cEfIPpNY095dQlzU9xgd-Z7vgNGZmc1GSB_laXq04oli8WHdiuZ40V9Syru0HegXmtoDYc-57hPrnlJA",
+      "icon_drag_url": "",
+      "name": "The Axtinguisher",
+      "market_hash_name": "The Axtinguisher",
+      "market_name": "The Axtinguisher",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 10 Fire Axe",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Mini-crits burning targets and extinguishes them.\nDamage increases based on remaining duration of afterburn\nKilling blows on burning players grant a speed boost.",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-33% damage penalty",
+          "color": "d83636"
+        },
+        {
+          "value": "No random critical hits",
+          "color": "d83636"
+        },
+        {
+          "value": "This weapon holsters 35% slower",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=38&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Pyro",
+          "name": "Pyro",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "38",
+        "quality": "6"
+      }
+    },
+    "124_23967788": {
+      "appid": "440",
+      "classid": "124",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwYcXxrxqzlHh9rZAuKYN-wBid0wq5QH2zJpxFUvYeHtYmM2IVDAUqUICvA_pF68XXJnvcEwDYKz9rhffgXx9NyRSl-PUaY",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwYcXxrxqzlHh9rZAuKYN-wBid0wq5QH2zJpxFUvYeHtYmM2IVDAUqUICvA_pF68XXJnvcEwDYKz9rhffgXx9NyRSl-PUaY",
+      "icon_drag_url": "",
+      "name": "The Ambassador",
+      "market_hash_name": "The Ambassador",
+      "market_name": "The Ambassador",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Revolver",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Crits on headshot",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-15% damage penalty",
+          "color": "d83636"
+        },
+        {
+          "value": "20% slower firing speed",
+          "color": "d83636"
+        },
+        {
+          "value": "No random critical hits",
+          "color": "d83636"
+        },
+        {
+          "value": "Critical damage is affected by range",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=61&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "61",
+        "quality": "6"
+      }
+    },
+    "780613087_23972824": {
+      "appid": "440",
+      "classid": "780613087",
+      "instanceid": "23972824",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxQVYgjjqChGmvfqDOCLDa5WzIM3vcMN3WMywlUiNrK2aW8-KwCXUKFcBfNtpwnpXn40u5diUdW1uasILvCuI-ur",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxQVYgjjqChGmvfqDOCLDa5WzIM3vcMN3WMywlUiNrK2aW8-KwCXUKFcBfNtpwnpXn40u5diUdW1uasILvCuI-ur",
+      "icon_drag_url": "",
+      "name": "The Red-Tape Recorder",
+      "market_hash_name": "The Red-Tape Recorder",
+      "market_name": "The Red-Tape Recorder",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 17 Sapper",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Reverses enemy building construction",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-100% sapper damage penalty",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=810&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "building",
+          "name": "Building",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "810",
+        "quality": "6"
+      }
+    },
+    "69_23967788": {
+      "appid": "440",
+      "classid": "69",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwsUXA_qvSp8n8nyDvqzBOESnN974JQBiWA_kgd4YbrjNW41c1aSUaEKDKFipVu-WSFj7JQzUIHup-wEeRKv6tVDBt05jw",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwsUXA_qvSp8n8nyDvqzBOESnN974JQBiWA_kgd4YbrjNW41c1aSUaEKDKFipVu-WSFj7JQzUIHup-wEeRKv6tVDBt05jw",
+      "icon_drag_url": "",
+      "name": "The Cloak and Dagger",
+      "market_hash_name": "The Cloak and Dagger",
+      "market_name": "The Cloak and Dagger",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Invis Watch",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Cloak Type: Motion Sensitive.\nAlt-Fire: Turn invisible.  Cannot attack while invisible.  Bumping in to enemies will make you slightly visible to enemies.\nCloak drain rate based on movement speed."
+        },
+        {
+          "value": "+100% cloak regen rate",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "No cloak meter from ammo boxes when invisible",
+          "color": "d83636"
+        },
+        {
+          "value": "-35% cloak meter from ammo boxes",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=60&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "pda2",
+          "name": "Secondary PDA",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "60",
+        "quality": "6"
+      }
+    },
+    "133_23967788": {
+      "appid": "440",
+      "classid": "133",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxceXhDnrAdUidzlBc2ACfIHnpRhtMUH2GY7wll4bbSzYWcycFTGU_YMDqZu917qXiY06cNiDdHmou4HZ0yx437L5HOa",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxceXhDnrAdUidzlBc2ACfIHnpRhtMUH2GY7wll4bbSzYWcycFTGU_YMDqZu917qXiY06cNiDdHmou4HZ0yx437L5HOa",
+      "icon_drag_url": "",
+      "name": "The Dead Ringer",
+      "market_hash_name": "The Dead Ringer",
+      "market_name": "The Dead Ringer",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Invis Watch",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Cloak Type: Feign Death.\nLeave a fake corpse on taking damage\nand temporarily gain invisibility, speed and damage resistance."
+        },
+        {
+          "value": "+50% cloak regen rate",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "+40% cloak duration",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-50% cloak meter when Feign Death is activated",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=59&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "pda2",
+          "name": "Secondary PDA",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Spy",
+          "name": "Spy",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "59",
+        "quality": "6"
+      }
+    },
+    "102_23967788": {
+      "appid": "440",
+      "classid": "102",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwEDUhX2sT1Rgt31GfuPDd8Mmsgy4N5XgGA5k1ErNrLlNDJlK1XGU_EIBPBo91npXXQw7sM3BNbmpehQe1--qsKYZGj-Cyl2",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUwEDUhX2sT1Rgt31GfuPDd8Mmsgy4N5XgGA5k1ErNrLlNDJlK1XGU_EIBPBo91npXXQw7sM3BNbmpehQe1--qsKYZGj-Cyl2",
+      "icon_drag_url": "",
+      "name": "Frontier Justice",
+      "market_hash_name": "Frontier Justice",
+      "market_name": "Frontier Justice",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Shotgun",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Gain 2 revenge crits for each sentry kill and\n1 for each sentry assist when your sentry is destroyed",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "-50% clip size",
+          "color": "d83636"
+        },
+        {
+          "value": "No random critical hits",
+          "color": "d83636"
+        },
+        {
+          "value": "Revenge crits are lost on death",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=141&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "primary",
+          "name": "Primary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "141",
+        "quality": "6"
+      }
+    },
+    "59_23967788": {
+      "appid": "440",
+      "classid": "59",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxADXBXltD1Rt8TnH_WJRrdSn4JktMcF2GVqyQd_NbHiNjU_IVCUVflcX_M8olq6X35gvJ81V47457UBTPbzYyk",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIUxADXBXltD1Rt8TnH_WJRrdSn4JktMcF2GVqyQd_NbHiNjU_IVCUVflcX_M8olq6X35gvJ81V47457UBTPbzYyk",
+      "icon_drag_url": "",
+      "name": "The Wrangler",
+      "market_hash_name": "The Wrangler",
+      "market_name": "The Wrangler",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 5 Laser Pointer",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Take manual control of your Sentry Gun.\nWrangled sentries gain a shield that reduces\ndamage and repairs by 66%.\nSentries are disabled for 3 seconds after becoming unwrangled."
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=140&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "secondary",
+          "name": "Secondary weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "140",
+        "quality": "6"
+      }
+    },
+    "155_23967788": {
+      "appid": "440",
+      "classid": "155",
+      "instanceid": "23967788",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEMeQkCURLsvz1Rt8TnH_WJRrQFn99itpUGizU4xlItNuXlMTE3JgbGBKEJDvNoolC_UHVj68NnUIb457UB7cjOSco",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEMeQkCURLsvz1Rt8TnH_WJRrQFn99itpUGizU4xlItNuXlMTE3JgbGBKEJDvNoolC_UHVj68NnUIb457UB7cjOSco",
+      "icon_drag_url": "",
+      "name": "The Gunslinger",
+      "market_hash_name": "The Gunslinger",
+      "market_name": "The Gunslinger",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 15 Robot Arm",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "+25 max health on wearer",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Sentry build speed increased by 150%",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "Third successful punch in a row always crits",
+          "color": "7ea9d1"
+        },
+        {
+          "value": "No random critical hits",
+          "color": "d83636"
+        },
+        {
+          "value": "Replaces the Sentry with a Mini-Sentry",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Achievement Item: Not Tradable or Marketable )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=142&lang=en_US"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "melee",
+          "name": "Melee weapon",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "142",
+        "quality": "6"
+      }
+    },
+    "780611840_23968029": {
+      "appid": "440",
+      "classid": "780611840",
+      "instanceid": "23968029",
+      "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEYalZFYhLwtzZ8jsH1Gc2ACfIHnpQ3vMRR3W5ql1EoYbPiNGE1IlfGV_YICKJrrFruDCRhusYxBILjoL8DZ0yx4zgfJENl",
+      "icon_url_large": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEYalZFYhLwtzZ8jsH1Gc2ACfIHnpQ3vMRR3W5ql1EoYbPiNGE1IlfGV_YICKJrrFruDCRhusYxBILjoL8DZ0yx4zgfJENl",
+      "icon_drag_url": "",
+      "name": "The Iron Fist",
+      "market_hash_name": "The Iron Fist",
+      "market_name": "The Iron Fist",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "type": "Level 31 Cosmetic Item",
+      "tradable": 0,
+      "marketable": 0,
+      "commodity": 0,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "0",
+      "descriptions": [
+        {
+          "value": "Holiday Restriction: Halloween \/ Full Moon",
+          "color": "d83636"
+        },
+        {
+          "value": " "
+        },
+        {
+          "value": "( Not Tradable, Marketable, or Usable in Crafting )"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Item Wiki Page...",
+          "link": "http:\/\/wiki.teamfortress.com\/scripts\/itemredirect.php?id=30508&lang=en_US"
+        },
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20S%owner_steamid%A%assetid%D17265048288078098698"
+        }
+      ],
+      "market_actions": [
+        {
+          "name": "Inspect in Game...",
+          "link": "steam:\/\/rungame\/440\/76561202255233023\/+tf_econ_item_preview%20M%listingid%A%assetid%D17265048288078098698"
+        }
+      ],
+      "tags": [
+        {
+          "internal_name": "Unique",
+          "name": "Unique",
+          "category": "Quality",
+          "color": "7D6D00",
+          "category_name": "Quality"
+        },
+        {
+          "internal_name": "misc",
+          "name": "Cosmetic",
+          "category": "Type",
+          "category_name": "Type"
+        },
+        {
+          "internal_name": "Engineer",
+          "name": "Engineer",
+          "category": "Class",
+          "category_name": "Class"
+        }
+      ],
+      "app_data": {
+        "def_index": "30508",
+        "quality": "6"
+      }
+    }
+  },
+  "more": false,
+  "more_start": false
+}
