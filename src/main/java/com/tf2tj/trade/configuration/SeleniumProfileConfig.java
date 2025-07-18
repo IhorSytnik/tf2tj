@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Profile;
 /**
  * @author Ihor Sytnik
  */
+@Deprecated
 @Configuration
 @Profile("selenium")
 public class SeleniumProfileConfig {
@@ -22,7 +23,7 @@ public class SeleniumProfileConfig {
     private String cookiesDirName;
 
     @Bean
-    public SeleniumBrowser steamSeleniumBrowser(
+    public SeleniumBrowser steamGetBrowser(
             @Value("${steam.website}") String website,
             @Value("${steam.sleep}") int sleepMilliseconds,
             @Value("${steam.cookieFileName}") String cookieFileName) {

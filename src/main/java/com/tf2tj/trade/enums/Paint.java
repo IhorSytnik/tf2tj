@@ -149,7 +149,7 @@ public enum Paint {
     BALACLAVAS_ARE_FOREVER("Balaclavas Are Forever", "3B1F23", "3874595"),
     AN_AIR_OF_DEBONAIR("An Air of Debonair", "654740", "6637376");
 
-    private final String paintName;
+    private final String name;
     private final String hexValue;
     private final String bpCode;
     private static final Map<String, Paint> map;
@@ -157,7 +157,7 @@ public enum Paint {
     static {
         map = new HashMap<>();
         for (Paint v : Paint.values()) {
-            map.put(v.paintName, v);
+            map.put(v.name, v);
             map.put(v.hexValue, v);
             map.put(v.bpCode, v);
         }

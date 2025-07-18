@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<!-- saved from url=(0025)https://scrap.tf/buy/hats -->
+<html lang="en">
+<head>
+
+</head>
+
+<body id="pid-hats" style="
+			background-color: #281F4D;
+				" class="">
+
+<nav class="navbar yamm navbar-default navbar-fixed-top navbar-main">
+    <div class="container">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-main">
+                <div class="notice-badge" style="display: none;"></div>
+                <span class="sr-only">Toggle navigation</span>
+            </button>
+            <a href="https://scrap.tf/" accesskey="1">
+                <img src="./ScrapTF_files/logo-pride.svg" style="" class="navbar-brand big-logo" alt="Logo">
+            </a>
+            <a class="small-logo" href="https://scrap.tf/">
+                <img src="./ScrapTF_files/emblem-pride.svg" class="navbar-brand" alt="Logo">
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbar-main">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a tabindex="0" accesskey="3" class="dropdown-toggle" data-toggle="dropdown">Trade</a>
+                    <ul class="dropdown-menu yamm-dropdown" role="menu">
+                        <li>
+                            <div class="yamm-content">
+                                <a href="https://scrap.tf/help/kb/155" rel="accesskeys"
+                                   class="fa fa-2x fa-keyboard-o nav-accesskeys"></a>
+                                <div class="row">
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-wrench">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/weapons" accesskey="w">
+                                                <i class="fa fa-fw fa-wrench"></i>
+                                                Weapons
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/buy/weapons">Buy</a>
+                                            <a href="https://scrap.tf/sell/weapons">Sell</a>
+                                        </li>
+                                        <li class="multi">
+                                            <a tabindex="0" onclick="ScrapTF.Weapons.AutoBuy()">AutoBuy</a>
+                                            <a tabindex="0" onclick="ScrapTF.Weapons.AutoScrap()">AutoScrap</a>
+                                        </li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-graduation-cap">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/hats" accesskey="h">
+                                                <i class="fa fa-fw fa-graduation-cap"></i>
+                                                Hats
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/buy/hats">Buy</a>
+                                            <a href="https://scrap.tf/sell/hats">Sell</a>
+                                        </li>
+                                        <li class="multi">
+                                            <a tabindex="0" onclick="ScrapTF.Hats.OpenSellModal()">AutoSell Hats</a>
+                                        </li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-key">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/keys" accesskey="k">
+                                                <i class="fa fa-fw fa-key"></i>
+                                                Keys
+                                            </a>
+                                        </li>
+                                        <li><a tabindex="0" href="https://scrap.tf/keys">Price: 47.00/48.00</a></li>
+                                        <li class="hidden-xs"><a tabindex="0" onclick="ScrapTF.Weapons.AutoSmelt()">AutoSmelt
+                                            Metal</a></li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-tag">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/items" accesskey="i">
+                                                <i class="fa fa-fw fa-tags"></i>
+                                                Items
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/buy/items">Buy</a>
+                                            <a href="https://scrap.tf/sell/items">Sell</a>
+                                        </li>
+                                        <li class="hidden-xs"><a href="https://scrap.tf/items#pricelist">Item Prices</a>
+                                        </li>
+                                    </ul>
+
+                                </div>
+                                <div class="row yamm-row2">
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-diamond">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/unusuals" accesskey="u">
+                                                <i class="fa fa-fw fa-diamond"></i>
+                                                Unusuals
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/unusuals/89">Buy</a>
+                                            <a href="https://scrap.tf/sell/unusuals">Sell</a>
+                                        </li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-paint-brush">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/skins" accesskey="d">
+                                                <i class="fa fa-fw fa-paint-brush"></i>
+                                                Skins
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/buy/skins">Buy</a>
+                                            <a href="https://scrap.tf/sell/skins">Sell</a>
+                                        </li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-chevron-right">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/killstreaks" accesskey="l">
+                                                <i class="fa fa-fw fa-chevron-right"></i>
+                                                Killstreak Kits
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/buy/killstreaks">Buy</a>
+                                            <a href="https://scrap.tf/sell/killstreaks">Sell</a>
+                                        </li>
+                                        <li class="hidden-xs"><a tabindex="0" onclick="ScrapTF.Parts.AutoComplete()">AutoComplete
+                                            Fabricators</a></li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-steam">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/games" accesskey="g">
+                                                <i class="fa fa-fw fa-steam"></i>
+                                                Steam Games
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/gifts/62">Buy</a>
+                                            <a href="https://scrap.tf/sell/gifts">Sell</a>
+                                        </li>
+                                        <li class="hidden-xs"><a href="https://scrap.tf/games#pricelist">Accepted
+                                            Games</a></li>
+                                    </ul>
+
+                                </div>
+                                <div class="row yamm-row2">
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-tachometer">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/stranges" accesskey="s">
+                                                <i class="fa fa-fw fa-tachometer"></i>
+                                                Stranges
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/buy/stranges">Buy</a>
+                                            <a href="https://scrap.tf/sell/stranges">Sell</a>
+                                        </li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-plug">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/partswap" accesskey="p">
+                                                <i class="fa fa-fw fa-plug"></i>
+                                                MvM Parts
+                                            </a>
+                                        </li>
+                                        <li><a tabindex="0" onclick="ScrapTF.Parts.AutoSell()">AutoSell Parts</a></li>
+                                        <li class="hidden-xs"><a tabindex="0" onclick="ScrapTF.Parts.AutoComplete()">AutoComplete
+                                            Fabricators</a></li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-clone">
+                                        <li class="title">
+                                            <a href="https://scrap.tf/cards" accesskey="c">
+                                                <i class="fa fa-fw fa-clone"></i>
+                                                Trading Cards
+                                            </a>
+                                        </li>
+                                        <li class="multi bold">
+                                            <a href="https://scrap.tf/cards" class="hidden-xs">Buy</a>
+                                            <a href="https://scrap.tf/sell/cards">Sell</a>
+                                        </li>
+                                        <li class="multi">
+                                            <a href="https://scrap.tf/cards">Auto-Leveler</a>
+                                            <a href="https://scrap.tf/badgebuilder" accesskey="b">Badge Builder</a>
+                                        </li>
+                                    </ul>
+
+                                    <ul class="col-sm-3 list-unstyled iconic fa-map-o">
+                                        <li class="title">
+                                            <i class="fa fa-fw fa-map-o"></i>
+                                            More
+                                        </li>
+                                        <li class="multi">
+                                            <a href="https://scrap.tf/premium">Premium</a>
+                                            <a href="https://scrap.tf/incinerator" accesskey="j">Incinerator</a>
+                                        </li>
+
+                                        <li></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="https://scrap.tf/raffles" class="dropdown-toggle" data-toggle="dropdown">Raffles</a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="https://scrap.tf/megaraffle"><i class="fa fa-fw fa-users"></i> Megaraffle</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://scrap.tf/raffles"><i class="fa fa-fw fa-ticket"></i> Public Raffles</a>
+                        </li>
+                        <li><a href="https://scrap.tf/raffles/puzzle"><i class="fa fa-fw fa-puzzle-piece"></i> Puzzle
+                            Raffles</a></li>
+                        <li><a href="https://scrap.tf/raffles/create"><i class="fa fa-fw fa-plus-circle"></i> Create
+                            Raffle</a></li>
+
+                        <li><a href="https://scrap.tf/twitch"><i class="fa fa-fw fa-comments"></i> Twitch Raffle Bot</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li><a href="https://scrap.tf/tips"><i class="fa fa-fw fa-heart-o"></i> Tips</a></li>
+                        <li><a href="https://scrap.tf/raffles/history"><i class="fa fa-fw fa-ticket"></i> Entered
+                            Raffles</a></li>
+                        <li><a href="https://scrap.tf/raffles/tipped"><i class="fa fa-fw fa-heart"></i> Tipped
+                            Raffles</a></li>
+                        <li><a href="https://scrap.tf/raffles/won"><i class="fa fa-fw fa-trophy"></i> Won Raffles</a>
+                        </li>
+                        <li><a href="https://scrap.tf/raffles/mine"><i class="fa fa-fw fa-ticket"></i> Created
+                            Raffles</a></li>
+                    </ul>
+                </li>
+
+
+                <li class="dropdown">
+                    <a href="https://scrap.tf/auctions" class="dropdown-toggle" data-toggle="dropdown">Auctions</a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="https://scrap.tf/auctions"><i class="fa fa-fw fa-gavel"></i> Public Auctions</a>
+                        </li>
+                        <li><a href="https://scrap.tf/auctions/create"><i class="fa fa-fw fa-plus-circle"></i> Create
+                            Auction</a></li>
+                        <li><a href="https://scrap.tf/inventory"><i class="fa fa-fw fa-briefcase"></i> Site
+                            Inventory</a></li>
+                        <li><a href="https://scrap.tf/deposit"><i class="fa fa-fw fa-download"></i> Deposit Items</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li><a href="https://scrap.tf/auctions/joined"><i class="fa fa-fw fa-gavel"></i> Joined Auctions</a>
+                        </li>
+                        <li><a href="https://scrap.tf/auctions/won"><i class="fa fa-fw fa-gavel"></i> Won Auctions</a>
+                        </li>
+                        <li><a href="https://scrap.tf/auctions/mine"><i class="fa fa-fw fa-gavel"></i> My Auctions</a>
+                        </li>
+                    </ul>
+                </li>
+
+
+                <li class="hidden-sm"><a href="https://scrap.tf/marketplace" target="_blank">Marketplace</a></li>
+                <li><a href="https://scrap.tf/forum">Forum</a></li>
+                <li><a href="https://chat.scrap.tf/" rel="tooltip-html" title=""
+                       onclick="return ScrapTF.Chat.PopOut(true)"
+                       data-original-title="Scrap.TF Chat is a place to hang out and chat.&lt;br/&gt;&lt;b&gt;Chat is not a place to ask for help!&lt;/b&gt; Use the help button to the right.">Chat</a>
+                </li>
+                <li class="dropdown">
+                    <a href="https://scrap.tf/buy/hats#" class="dropdown-toggle" data-toggle="dropdown">Servers</a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="steam://connect/172.104.16.244:27015"><i class="fa-fw stm stm-tf2"></i> Server 1 -
+                            Stock/Workshop Maps [0/23]</a></li>
+                        <li><a href="steam://connect/198.74.56.8:27015"><i class="fa-fw stm stm-tf2"></i> Server 2 -
+                            Hangout/Chill [9/24]</a></li>
+                        <li class="divider"></li>
+                        <li><a target="_blank" href="https://discord.gg/PEXZzZ4"><i class="fa fa-fw fa-comments-o"></i>
+                            Discord Server</a></li>
+                        <li><a target="_blank" href="https://bans.scrap.tf/"><i class="fa fa-fw fa-ban"></i> Sourcebans</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="https://scrap.tf/help" class="dropdown-toggle" data-toggle="dropdown"
+                       onclick="ScrapTF.HelpMenu(&#39;hats&#39;);" accesskey="0">Help</a>
+                    <ul id="help-menu" class="dropdown-menu" role="menu">
+                        <li><a href="https://scrap.tf/help"><i class="fa fa-fw fa-life-ring"></i> Help Center</a></li>
+                        <li><a href="https://scrap.tf/support"><i class="fa fa-fw fa-user-md"></i> Live Support - Closed</a>
+                        </li>
+                        <li class="divider ajax-entry"></li>
+                        <li class="ajax-entry"><a><i class="fa fa-fw fa-spin fa-spinner"></i> Loading Suggestions...</a>
+                        </li>
+                        <li id="menu-faq-end" class="divider"></li>
+                        <li><a tabindex="0" onclick="ScrapTF.Rules.OpenModal()" accesskey="5"><i
+                                class="fa fa-fw fa-book"></i> Community Rules</a></li>
+                        <li><a href="https://scrap.tf/terms" accesskey="8"><i class="fa fa-fw fa-book"></i> Terms of
+                            service</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+            <form style="display:none;" id="logoutForm" method="POST" action="https://scrap.tf/logout"><input
+                    type="hidden" name="csrf"
+                    value="REMOVED: profile info"><input type="hidden"
+                                                                                                    name="logout"
+                                                                                                    value="logout">
+            </form>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="https://scrap.tf/search" accesskey="4"><i class="fa fa-lg fa-search"></i></a></li>
+
+                <li id="notices-menu" class="dropdown" title="Notifications" data-placement="left">
+                    <a href="https://scrap.tf/notices" onclick="ScrapTF.Notices.FetchNav()"
+                       class=" user-notices-dropdown dropdown-toggle" data-toggle="dropdown"><span
+                            class="user-notices-count">0</span> <i class="fa fa-lg fa-inbox"></i></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li class="ajax-entry"><a><i class="fa fa-fw fa-refresh fa-spin"></i> Loading
+                            notifications...</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://scrap.tf/notices"><i class="fa fa-fw fa-inbox"></i> All notifications</a>
+                        </li>
+                    </ul>
+                </li>
+
+<!--                REMOVED: profile info-->
+            </ul>
+        </div>
+    </div>
+
+    <div class="crouton"></div>
+
+    <div class="toggle-chat-button" onclick="ScrapTF.Chat.PopOut(true)" title="" rel="tooltip-free"
+         data-placement="auto" data-html="true"
+         data-original-title="Join for a chat!&lt;br&gt;&lt;b&gt;If you need live support go to the help menu!&lt;/b&gt;">
+        <i class="fa fa-comments-o"></i></div>
+
+</nav>
+
+<div class="welcome-overlay-container" style="margin: 1em 0;">
+    <div class="container" id="main-container">
+
+        <div class="ads-margin-bottom">
+            <div id="trading-lb" data-request-id="f3700e21-2bd3-4248-9613-49b6607fe9b9"
+                 data-report="{&quot;enabled&quot;:true,&quot;wording&quot;:&quot;Report Ad&quot;,&quot;position&quot;:&quot;top-right&quot;,&quot;icon&quot;:true}"
+                 style="min-height: 90px;" class="up-show">
+                <div class="default-creative-container"
+                     style="height: 90px; width: max-content !important; position: relative; z-index: 0; margin: 0px auto; display: block;">
+                    <iframe src="./ScrapTF_files/safeFrame(2).html" class="default-creative-iframe" scrolling="no"
+                            marginwidth="0" marginheight="0" height="90px" width="728px" style="border: 0px;"></iframe>
+                    <div class="upo-label"
+                         style="text-align: left; padding: 0px; margin: 0px; position: absolute; top: 0px; left: 0px; z-index: 10000; transition: opacity 1s ease-out 0s; opacity: 1; cursor: pointer;">
+                        <span style="display:block;background:rgba(255, 255, 255, 0.7);height:fit-content;width:fit-content;top:0;left:0;color:#444;font-size:10px;font-weight:bold;font-family:sans-serif;line-height:normal;text-decoration:none;margin:0px;padding:6px;border-radius:0 0 5px 0;">AD</span>
+                    </div>
+                </div>
+            </div>
+            <div id="trading-mobile"></div>
+        </div>
+
+
+        <div class="welcome-overlay-well well">
+            <div class="well-padding">
+                <div class="pull-left well-title">
+                    <a href="https://scrap.tf/hats">Hat Trading</a> <i class="fa fa-angle-double-right"></i> All Items
+                </div>
+            </div>
+            <div id="stickyreference" class="rev-banking-background a">
+                <div class="reverse-container">
+                    <div id="reverse-header">
+                        <div class="rev-filters">
+
+                            <div class="row text-center" style="margin:0">
+                                <div class="pull-left text-left">
+                                    <div class="form-inline">
+                                        <button class="btn btn-embossed btn-info"
+                                                onclick="ScrapTF.Inventory.ToggleFilters();" title="" rel="tooltip"
+                                                data-original-title="Click to show item filters.">
+                                            <i class="fa fa-fw fa-filter"></i>
+                                        </button>
+                                        <input type="text" class="form-control inventory-search"
+                                               placeholder="Search for items" style="margin: 0 0.5em;">
+                                        <button id="ClearSelectedReverse" class="btn btn-embossed btn-info"
+                                                onclick="ScrapTF.Inventory.ClearSelected();" title="" rel="tooltip"
+                                                data-original-title="Click to clear selected items.">
+                                            <i class="fa fa-fw fa-eraser"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="pull-right text-right">
+                                    <b class="cost-vs-owed">Cost: </b>
+                                    <span class="scrap-cnt">0 Keys, 0.00 Refined</span>
+
+                                    <button title="" rel="tooltip" onclick="ScrapTF.Hats.Reverse();"
+                                            class="btn btn-embossed btn-primary btn-trade btn-stage2"
+                                            style="margin: 0px 0.5em;"
+                                            data-original-title="Select items from your backpack as payment.">
+                                        <i class="fa fa-fw fa-briefcase"></i>
+                                    </button>
+                                    <button title="" rel="tooltip" onclick="ScrapTF.Hats.BuyWithMetal();"
+                                            class="btn btn-embossed btn-primary btn-checkout"
+                                            data-loading-text="&lt;i class=&#39;fa fa-refresh fa-spin&#39;&gt;&lt;/i&gt;"
+                                            id="trade-btn" data-original-title="Pay rest with keys and metal.">
+                                        <i class="fa fa-fw fa-shopping-cart"></i>
+                                    </button>
+                                </div>
+                                <div class="text-center hidden-sm hidden-xs trade-stage-indicator">
+                                    Hats <span id="trade-stage-indicator">you want:</span>
+                                </div>
+                            </div>
+
+                            <div id="item-filters">
+                                <label class="checkbox hide-dupes-checkbox">
+                                    <input id="hide_dupes" data-toggle="checkbox" type="checkbox"
+                                           class="custom-checkbox"><span class="icons"><span
+                                        class="icon-unchecked"></span><span class="icon-checked"></span></span>
+                                    Hide items I have
+                                </label>
+                                <label class="checkbox show-only-dupes-checkbox" style="display:none;">
+                                    <input id="show_only_dupes" data-toggle="checkbox" type="checkbox"
+                                           class="custom-checkbox"><span class="icons"><span
+                                        class="icon-unchecked"></span><span class="icon-checked"></span></span>
+                                    Only Show Duplicates
+                                </label>
+                                <div id="classlist">
+                                    <ul id="classes">
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="multi"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_all_small.webp" title="" rel="tooltip"
+                                                 data-original-title="All-Class">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="scout"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_scout_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Scout">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="soldier"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_soldier_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Soldier">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="pyro"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_pyro_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Pyro">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="demoman"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_demo_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Demoman">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="heavy"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_heavy_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Heavy">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="engineer"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_engineer_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Engineer">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="medic"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_medic_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Medic">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="sniper"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_sniper_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Sniper">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleClass(this, true)" data-class="spy"
+                                            class="classes">
+                                            <img src="./ScrapTF_files/token_spy_small.webp" title="" rel="tooltip"
+                                                 data-original-title="Spy">
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleSlot(this, true)" data-slot="hat-expensive"
+                                            class="slots">
+                                            Valuable
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleSlot(this, true)" data-slot="hat-craft"
+                                            class="slots">
+                                            Craft
+                                        </li>
+                                        <li onclick="ScrapTF.Inventory.ToggleSlot(this, true)" data-slot="hat-uncraft"
+                                            class="slots">
+                                            Uncraft
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="inv-switcher">
+                            <a class="banking-category-button sell-switcher active"
+                               onclick="ScrapTF.Hats.SwitchCategory(-1, this)">All</a>
+                            <a class="banking-category-button sell-switcher"
+                               onclick="ScrapTF.Hats.SwitchCategory(0, this)">Recently Traded</a>
+                            <a class="banking-category-button sell-switcher"
+                               onclick="ScrapTF.Hats.SwitchCategory(1, this)">Strange Hats</a>
+                            <a class="banking-category-button sell-switcher"
+                               onclick="ScrapTF.Hats.SwitchCategory(2, this)">Higher-Value Hats</a>
+                            <a class="banking-category-button sell-switcher"
+                               onclick="ScrapTF.Hats.SwitchCategory(3, this)">Craft Hats</a>
+                        </div>
+                    </div>
+
+                    <div id="reverse-body">
+
+                        <div class="rev-items-container expanded" id="buy-selected-container">
+                            <div class="inv-hint">Selected Items:</div>
+                            <div class="buy-selected-items items-container">
+                            </div>
+                        </div>
+
+                        <div class="rev-items-container expanded" id="buy-container">
+
+                            <div class="inventory-hints">
+                                <div class="inv-hint">
+                                    Our inventory:
+                                </div>
+                                <div class="inv-hint2">
+                                    Click the <i class="fa fa-shopping-cart"></i> button to pay with metal only.
+                                </div>
+                            </div>
+
+
+                            <div class="items-category-header">Recently Traded</div>
+                            <hr class="flat-dotted-rule categories-separator">
+
+                            <div class="banking-category" id="category-0">
+                                <div class="items-container">
+                                    <div data-id="12217975829" data-slot="misc" data-classes="spy"
+                                         data-content="Level 93&lt;br/&gt;&lt;span class=&#39;raritylegendary&#39;&gt;Assassin Grade Jacket&lt;/span&gt;&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Costs 3 keys, 37.22 refined&lt;br/&gt;&lt;span style=&#39;color:#16a085;&#39;&gt;This item will decrease in price in 3 minutes 47 seconds.&lt;/span&gt;&lt;br/&gt;"
+                                         data-appid="440"
+                                         class="item hoverable quality6   expanded raritylegendary app440 ivi"
+                                         style="opacity:1;background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/sum20_smoking_jacket.0d164e1d4cc097e72f7b00231939f216257b701d.png);"
+                                         data-title="Smoking Jacket" data-defindex="31124" data-item-value="1631"
+                                         data-item-group-hash="hb-1631-31124-6--" data-num-available="1"
+                                         data-num-selected="0" data-bot24-count="1">
+                                        <div class="item-dutch-discount"><i class="fa fa-clock-o"></i></div>
+                                        <div class="item-group-num-text" id="group-num-available">
+                                        </div>
+
+
+                                        <div class="item-value-indicator">3 keys, 37.22 ref</div>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="items-category-header">Strange Hats</div>
+                            <hr class="flat-dotted-rule categories-separator">
+
+                            <div class="banking-category" id="category-1">
+                                <div class="items-container">
+                                    <div data-id="12206095587" data-slot="misc" data-classes="pyro"
+                                         data-content="Level 0&lt;br/&gt;Painted A Color Similar to Slate&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Costs 34.22 refined&lt;br/&gt;"
+                                         data-appid="440" class="item hoverable quality11   expanded rarity app440 ivi"
+                                         style="opacity:1;background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/robo_pyro_pyrobotic_tote.8ce475dd42257a549a89dfe7976a562b9d457b08.png);"
+                                         data-title="&lt;span class=&#39;quality11&#39;&gt;Strange Scrap Sack&lt;/span&gt;"
+                                         data-defindex="30020" data-item-value="308"
+                                         data-item-group-hash="hb-308-30020-11--p13100495-" data-num-available="1"
+                                         data-num-selected="0" data-bot20-count="1">
+                                        <div class="item-group-num-text" id="group-num-available">
+                                        </div>
+
+
+                                        <div class="item-value-indicator">34.22 refined</div>
+
+                                        <div class="paintcolor" style="background:#2f4f4f;"></div>
+                                    </div>
+
+                                    <div data-id="12206845552" data-slot="misc" data-classes="pyro"
+                                         data-content="Level 0&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Costs 34.22 refined&lt;br/&gt;"
+                                         data-appid="440" class="item hoverable quality11   expanded rarity app440 ivi"
+                                         style="opacity:1;background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/robo_pyro_pyrobotic_tote.8ce475dd42257a549a89dfe7976a562b9d457b08.png);"
+                                         data-title="&lt;span class=&#39;quality11&#39;&gt;Strange Scrap Sack&lt;/span&gt;"
+                                         data-defindex="30020" data-item-value="308"
+                                         data-item-group-hash="hb-308-30020-11--" data-num-available="1"
+                                         data-num-selected="0" data-bot20-count="1">
+                                        <div class="item-group-num-text" id="group-num-available">
+                                        </div>
+
+
+                                        <div class="item-value-indicator">34.22 refined</div>
+
+
+                                    </div>
+
+                                    <div data-id="12166796907" data-slot="misc" data-classes="pyro"
+                                         data-content="Level 0&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Costs 32.55 refined&lt;br/&gt;&lt;span style=&#39;color:#16a085;&#39;&gt;1.66 refined off original price of 34.22 refined&lt;/span&gt;&lt;br/&gt;"
+                                         data-appid="440" class="item hoverable quality11   expanded rarity app440 ivi"
+                                         style="opacity:1;background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/robo_pyro_pyrobotic_tote.8ce475dd42257a549a89dfe7976a562b9d457b08.png);"
+                                         data-title="&lt;span class=&#39;quality11&#39;&gt;Strange Scrap Sack&lt;/span&gt;"
+                                         data-defindex="30020" data-item-value="293"
+                                         data-item-group-hash="hb-293-30020-11--" data-num-available="3"
+                                         data-num-selected="0" data-bot24-count="3">
+                                        <div class="item-discount">-5%</div>
+                                        <div class="item-group-num-text" id="group-num-available">
+                                            3x
+                                        </div>
+
+
+                                        <div class="item-value-indicator">32.55 refined</div>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="items-category-header">Higher-Value Hats</div>
+                            <hr class="flat-dotted-rule categories-separator">
+
+                            <div class="banking-category" id="category-2">
+                                <div class="items-container">
+                                    <div data-id="12216276536" data-slot="head" data-classes="multi"
+                                         data-content="Level 20&lt;br/&gt;&lt;span class=&#39;rarityancient&#39;&gt;Elite Grade Hat&lt;/span&gt;&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Costs 5 keys, 24.66 refined&lt;br/&gt;"
+                                         data-appid="440"
+                                         class="item hoverable quality6   expanded rarityancient app440 ivi"
+                                         style="opacity:1;background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2018_lucky_cat_hat.40dae0e8dfea8e289472834b9057a41ea8badde1.png);"
+                                         data-title="Lucky Cat Hat" data-defindex="30998" data-item-value="2382"
+                                         data-item-group-hash="hb-2382-30998-6--" data-num-available="2"
+                                         data-num-selected="0" data-bot22-count="1" data-bot23-count="1">
+                                        <div class="item-group-num-text" id="group-num-available">
+                                            2x
+                                        </div>
+
+
+                                        <div class="item-value-indicator">5 keys, 24.66 ref</div>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="items-category-header">Craft Hats</div>
+                            <hr class="flat-dotted-rule categories-separator">
+
+                            <div class="banking-category" id="category-3">
+                                <div class="items-container">
+                                    <div data-id="12217987811" data-slot="head" data-classes="scout"
+                                         data-content="Level 88&lt;br/&gt;&lt;span style=&#39;color:rgba(231, 76, 60, 0.8);&#39;&gt;Crafted by: help i lost my dog&lt;/span&gt;&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Costs 1.55 refined&lt;br/&gt;"
+                                         data-appid="440" class="item hoverable quality6   expanded rarity app440 ivi"
+                                         style="opacity:1;background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/pilot_protector.5dff569dad74ab89ae6c3579d129a1f8335eb1aa.png);"
+                                         data-title="Bombing Run" data-defindex="249" data-item-value="14"
+                                         data-item-group-hash="hb-14-249-6--" data-num-available="1"
+                                         data-num-selected="0" data-bot9-count="1">
+                                        <div class="item-group-num-text" id="group-num-available">
+                                        </div>
+
+
+                                        <div class="item-value-indicator">1.55 refined</div>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                        <div class="rev-items-container" id="sell-container" style="display:none;">
+                            <div class="inv-hint">Your backpack:</div>
+                            <div class="inv-hint2">
+                                Select items to pay.
+                                <b>You pay the remaining amount owed with metal.</b>
+                            </div>
+                            <div id="sell-container-inside" style="clear:both;">
+                                <div class="bp-load" style="display: none;"><i class="fa fa-refresh fa-spin"></i>
+                                    Loading Your Backpack...
+                                </div>
+                                <div class="user-bp-app" id="user-bp-440">
+                                    <div class="items-container">
+                                        <div data-id="4725453758" data-slot="misc" data-classes="spy"
+                                             data-content="Level 68&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Worth 1.88 refined&lt;br/&gt;"
+                                             data-appid="440" class="item hoverable quality6   rarity app440 "
+                                             style="opacity:1;background-image:url(https://community.akamai.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEYfB4uTgvjrCt8hMn0CvfCXbcBndlm5skEjWY7wVYobeDsZ2djJlaQU_kKWadi8VzoWncw7p5mBZmm-bzeoFIPRQ/96fx96f);"
+                                             data-title="Sneaky Spats of Sneaking" data-defindex="763"
+                                             data-item-value="17">
+
+
+                                        </div>
+                                        <hr class="flat-dotted-rule sell-items-divider"
+                                            style="clear: both; flex: 0 0 100%">
+                                        <div data-id="5118025785" data-slot="head" data-classes="multi"
+                                             data-content="Level 10&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Worth 1.33 refined&lt;br/&gt;"
+                                             data-appid="440" class="item hoverable quality6   rarity app440 "
+                                             style="opacity:1;background-image:url(https://community.akamai.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEKYAsuWBfusSt8hMn0CvfCDLYDzo8z45JRjW84xgR5ZrblZjZlJQeSVPdaBaQ7oljtWiNh65E3DZmm-bzQBTxVGw/96fx96f);"
+                                             data-title="Ellis&#39; Cap" data-defindex="263" data-item-value="12">
+
+
+                                        </div>
+                                        <div data-id="12179198352" data-slot="head" data-classes="sniper"
+                                             data-content="Level 6&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Worth 1.33 refined&lt;br/&gt;"
+                                             data-appid="440" class="item hoverable quality6   rarity app440 "
+                                             style="opacity:1;background-image:url(https://community.akamai.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEYYgYWWhfnrDdMnMDZAfOeD-VOyo43s5QDjTI5lFEubLriNWVjIQeRAPdfBfFip1C0XX8z65Q1BNW39fUWJ1uH46HIcA/96fx96f);"
+                                             data-title="Ol&#39; Snaggletooth" data-defindex="229" data-item-value="12">
+
+
+                                        </div>
+                                        <div data-id="3694184895" data-slot="misc" data-classes="heavy"
+                                             data-content="Level 74&lt;br/&gt;&lt;span style=&#39;color:rgba(231, 76, 60, 0.8);&#39;&lt;/span&gt;&lt;br/&gt;&lt;small style=&#39;color:#3498db;&#39;&gt;&lt;/small&gt;Worth 1.33 refined&lt;br/&gt;"
+                                             data-appid="440" class="item hoverable quality6   rarity app440 "
+                                             style="opacity:1;background-image:url(https://community.akamai.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEBeQtADiTguT9Hh8TvCOCzBOESnN97vZUN2mAzkgIqYuLiY2NmcFLEB_gLWPFr8V_tXiNi7JQ1BoCz9OwFehKv6tVSpUUKkA/96fx96f);"
+                                             data-title="Borscht Belt" data-defindex="30108" data-item-value="12">
+
+
+                                        </div>
+                                        <hr class="flat-dotted-rule sell-items-divider"
+                                            style="clear: both; flex: 0 0 100%">
+                                        <div data-id="5186878815" data-slot="head" data-classes="multi"
+                                             data-content="&lt;b&gt;This item is overstocked and cannot be sold.&lt;/b&gt;"
+                                             data-appid="440" class="item hoverable quality6 reserved   rarity app440 "
+                                             style="opacity:1;background-image:url(https://community.akamai.steamstatic.com/economy/image/IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdEH9myp0erksICfTeKvZLFJtnqWSMU5OD2N5cwiAJnyhXOjLx2Sk5MbUqMcbBnQz4ruyeU2b4ajj7Li3VI1lhH_YdWjSIvGTw--WQED3KEu4rRwkMf6EH8jUYOs6IOUds0YADqmPpwh0tTEIqJZZCJF712noUBYlDcqs/96fx96f);"
+                                             data-title="Galvanized Gibus" data-defindex="30003" data-selectable="0"
+                                             data-item-value="12">
+
+
+                                            <div class="filtered-label">
+                                                Overstocked
+                                            </div>
+
+
+                                            <div class="paintcolor" style="background:#7c6c57;"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="rev-filters rev-filters-bottom" style="display: none;">
+                        <div class="row" style="margin:0">
+                            <div class="pull-right text-right">
+                                <b class="cost-vs-owed">Cost: </b>
+                                <span class="key-cnt">Nothing selected.</span>
+                                <button title="" rel="tooltip" onclick="ScrapTF.Hats.Reverse();"
+                                        class="btn btn-embossed btn-primary btn-trade btn-stage2"
+                                        style="margin: 0px 0.5em;"
+                                        data-original-title="Select items from your backpack as payment.">
+                                    <i class="fa fa-fw fa-briefcase"></i>
+                                </button>
+                                <button title="" rel="tooltip" onclick="ScrapTF.Hats.BuyWithMetal();"
+                                        class="btn btn-embossed btn-primary btn-checkout"
+                                        data-loading-text="&lt;i class=&#39;fa fa-refresh fa-spin&#39;&gt;&lt;/i&gt;"
+                                        id="trade-btn-2" data-original-title="Pay rest with keys and metal.">
+                                    <i class="fa fa-fw fa-shopping-cart"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="rev-bot-names-bottom" style="display: none;">
+
+                    </div>
+
+                </div>
+                <div class="reverse-complete">
+                    <p>You have been added to the queue. Please wait patiently for your turn with the bot.</p>
+
+                    <div id="trade-summary">
+                        <h3>This will be your trade</h3>
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img class="avatar-src" title="We" src="./ScrapTF_files/logo_icon.webp"
+                                     style="width:99%;max-width:100px;height:auto">
+                                <br><small class="text-success">These are the items you will receive.</small>
+                            </div>
+                            <div class="col-md-3 items-container" id="trade-summary-receiving" style="padding:0"></div>
+                            <div class="col-md-2"><i class="fa fa-exchange fa-5x" rel="tooltip" title=""
+                                                     data-original-title="The types of metal given/received can vary, based on your and the bots inventory situation."></i>
+                            </div>
+                            <div class="col-md-3 items-container" id="trade-summary-giving" style="padding:0"></div>
+                            <div class="col-md-2">
+<!--                                REMOVED: profile info-->
+                                <br><small class="text-danger">These are the items you will give.</small>
+                            </div>
+                        </div>
+
+                        <p class="text-warning">
+                            <br>
+                            <b>Double-check your trade offer before you accept it!</b>
+                            If the offer does not contain the correct items, decline it and try again.<br>
+                            <i>You will only receive a refund in case of metal miscounts or if your wrongly given item
+                                is still in the bot!</i><br>
+                            <small>(Consult the <a href="https://scrap.tf/rules">site-rules</a> for more
+                                information.)</small>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+<iframe sandbox="allow-scripts allow-same-origin" id="33c0ab7972789af" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/usync.html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="3415b062b325af8" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/ixmatch.html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="3537c975c5a4091" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/pd.html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="36062f6a48acd81" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/pd(1).html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="379b02dd55c9b45" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/sync.html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="382776ff74b60db" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/async_usersync.html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="396823fba8af0f7" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/async_usersync(1).html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="406278865a5b4a6" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/async_usersync(2).html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="41b0a13b75f4876" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/ixmatch(1).html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="42fdfa0e5e47b46" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/checksync.html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="439d14a5a09f6c3" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/async_usersync(3).html">
+</iframe>
+<iframe sandbox="allow-scripts allow-same-origin" id="4423f308863b265" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="./ScrapTF_files/sync(2).html">
+</iframe>
+</html>

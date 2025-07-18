@@ -4,6 +4,7 @@ import com.tf2tj.trade.stem.requests.HttpRequestBrowser;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.DependsOn;
 import org.springframework.context.annotation.Profile;
 import org.springframework.http.HttpHeaders;
 
@@ -18,6 +19,17 @@ public class RequestProfileConfig {
 
     @Value("${cookiesDirName}")
     private String cookiesDirName;
+
+    @Bean
+    public HttpRequestBrowser steamGetBrowser(
+            @Value("${steam.website}") String website,
+            @Value("${steam.sleep}") int sleepMilliseconds,
+            @Value("${steam.cookieFileName}") String cookieFileName,
+            @Value("#{${steam.headers}}") HttpHeaders steamHeaders)
+            throws IOException {
+        return new HttpRequestBrowser(website, true,
+                cookiesDirName + "\\" + cookieFileName, steamHeaders, sleepMilliseconds);
+    }
 
     @Bean
     public HttpRequestBrowser backpackBrowser(
