@@ -11,11 +11,7 @@ import java.util.Map;
  *
  * @author Ihor Sytnik
  */
-public class Killstreak {
-
-    public Tier tier;
-    public Sheen sheen;
-    public Killstreaker killstreaker;
+public record Killstreak(Tier tier, Sheen sheen, Killstreaker killstreaker) {
 
     /**
      * Describes killstreak tiers.
@@ -26,7 +22,7 @@ public class Killstreak {
         NONE("", "0"),
         STANDARD("Standard", "1"),
         SPECIALIZED("Specialized", "2"),
-        PROFESSIONAL("Proffecional", "3");
+        PROFESSIONAL("Professional", "3");
 
         private final String name;
         private final String code;

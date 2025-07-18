@@ -4,7 +4,6 @@ import com.tf2tj.trade.stem.requests.HttpRequestBrowser;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.DependsOn;
 import org.springframework.context.annotation.Profile;
 import org.springframework.http.HttpHeaders;
 
@@ -14,8 +13,8 @@ import java.io.IOException;
  * @author Ihor Sytnik
  */
 @Configuration
-@Profile({"request", "!selenium"})
-public class RequestProfileConfig {
+@Profile({"api"})
+public class APIRequestsProfileConfig {
 
     @Value("${cookiesDirName}")
     private String cookiesDirName;

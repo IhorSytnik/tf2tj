@@ -37,14 +37,16 @@ class InventoryJsonDeserializerTest {
         item.setName(name);
         item.setQuality(quality);
         item.setPaint(paint);
-        item.setAssets(assets);
+        item.getAssets().addAll(assets);
         return item;
     }
 
     @BeforeAll
     static void beforeAll() throws IOException {
         inventoryUpdated = new String(
-                Objects.requireNonNull(InventoryJsonDeserializerTest.class.getResourceAsStream("/inventoryUpdated.json")).readAllBytes(),
+                Objects.requireNonNull(
+                        InventoryJsonDeserializerTest.class
+                                .getResourceAsStream("/inventoryUpdated.json")).readAllBytes(),
                 StandardCharsets.UTF_8);
 
         itemsExpected.add(makeItem("5802", "780650846", "0",

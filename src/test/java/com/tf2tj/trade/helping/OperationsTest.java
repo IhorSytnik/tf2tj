@@ -1,6 +1,10 @@
 package com.tf2tj.trade.helping;
 
+import com.google.common.util.concurrent.RateLimiter;
 import org.junit.jupiter.api.Test;
+
+import java.time.ZonedDateTime;
+import java.util.stream.IntStream;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -8,6 +12,8 @@ import static org.junit.jupiter.api.Assertions.*;
  * @author Ihor Sytnik
  */
 class OperationsTest {
+
+    /*getMetalFromRefsRecsScrap*/
 
     @Test
     void getMetalFromRefsRecsScrap_8Refs1Recs4Scrap_equals() {
@@ -53,14 +59,18 @@ class OperationsTest {
         assertEquals(expected, Operations.getScrapFromRefsRecsScrap(refs, recs, scrap));
     }
 
+    /*getMetalToRefs*/
+
     @Test
     void getMetalToRefs_testingWithWholeNumber_equals() {
         int scrap = 47;
 
-        float expected = 5.22f;
+        String expected = "5.22";
 
         assertEquals(expected, Operations.getRefsFromScrap(scrap));
     }
+
+    /*getRefsToMetal*/
 
     @Test
     void getRefsToMetal_testingWithFloat_equals() {

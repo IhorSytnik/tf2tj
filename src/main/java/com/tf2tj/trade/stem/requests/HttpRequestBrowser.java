@@ -1,15 +1,27 @@
 package com.tf2tj.trade.stem.requests;
 
+import com.google.common.util.concurrent.RateLimiter;
+import org.springframework.core.io.buffer.DataBuffer;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.HttpStatusCode;
 import org.springframework.http.client.reactive.ReactorClientHttpConnector;
+import org.springframework.web.reactive.function.BodyInserters;
+import org.springframework.web.reactive.function.client.ClientResponse;
 import org.springframework.web.reactive.function.client.ExchangeStrategies;
 import org.springframework.web.reactive.function.client.WebClient;
+import reactor.core.publisher.Flux;
+import reactor.core.publisher.Mono;
 import reactor.netty.http.client.HttpClient;
+import org.springframework.core.io.buffer.DataBufferUtils;
 
+
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.StandardOpenOption;
 
 /**
  * A class for different HTTP requests.
@@ -18,9 +30,10 @@ import java.nio.file.Path;
  */
 public class HttpRequestBrowser implements GetBrowser {
     private final WebClient client;
-    private final String cookie;
+    private String cookie;
+    private final String cookieFileName;
     private final HttpHeaders commonHeaders;
-    private final long sleepMilliseconds;
+    private final RateLimiter limiter;
 
     /**
      *
@@ -35,8 +48,22 @@ public class HttpRequestBrowser implements GetBrowser {
     public HttpRequestBrowser(String baseUrl, boolean followRedirects, String cookieFileName,
                               HttpHeaders commonHeaders, long sleepMilliseconds)
             throws IOException {
-        this.client = WebClient.builder()
-                .baseUrl(baseUrl)
+        this.client = createBasicClient(followRedirects).baseUrl(baseUrl).build();
+        this.cookieFileName = cookieFileName;
+        updateCookies();
+        this.commonHeaders = commonHeaders;
+        this.limiter = RateLimiter.create(1000d / sleepMilliseconds);
+    }
+
+    public HttpRequestBrowser(boolean followRedirects, long sleepMilliseconds) {
+        this.client = createBasicClient(followRedirects).build();
+        this.cookieFileName = "";
+        this.commonHeaders = new HttpHeaders();
+        this.limiter = RateLimiter.create(1000d / sleepMilliseconds);
+    }
+
+    private WebClient.Builder createBasicClient(boolean followRedirects) {
+        return WebClient.builder()
                 .clientConnector(new ReactorClientHttpConnector(
                         HttpClient.create().followRedirect(followRedirects)
                 ))
@@ -44,11 +71,13 @@ public class HttpRequestBrowser implements GetBrowser {
                         .codecs(configurer -> configurer
                                 .defaultCodecs()
                                 .maxInMemorySize(16 * 1024 * 1024))
-                        .build())
-                .build();
-        cookie = Files.readString(Path.of(cookieFileName));
-        this.commonHeaders = commonHeaders;
-        this.sleepMilliseconds = sleepMilliseconds;
+                        .build());
+    }
+
+    @Override
+    public void updateCookies() throws IOException {
+        if (new File(cookieFileName).exists())
+            cookie = Files.readString(Path.of(cookieFileName));
     }
 
     /**
@@ -58,18 +87,77 @@ public class HttpRequestBrowser implements GetBrowser {
      * @param method http request method.
      * @param headers request headers.
      * @return response.
-     * @throws InterruptedException if any thread has interrupted the current thread. See {@link Thread#sleep(long)}.
      */
-    public WebClient.ResponseSpec request(String uri, HttpMethod method, HttpHeaders headers)
-            throws InterruptedException {
-        Thread.sleep(sleepMilliseconds);
+    public WebClient.ResponseSpec request(String uri, HttpMethod method, HttpHeaders headers, String body) {
+        limiter.acquire();
         return client.method(method)
                 .uri(uri)
+                .body(BodyInserters.fromValue(body))
                 .headers(httpHeaders -> {
                     httpHeaders.setAll(headers.toSingleValueMap());
                     httpHeaders.add(HttpHeaders.COOKIE, cookie);
                 })
-                .retrieve();
+                .retrieve()
+//    todo check if works
+                .onStatus(HttpStatusCode::isError, clientResponse -> {
+                    logTraceResponse(clientResponse);
+                    return Mono.error(new IllegalStateException());
+                });
+    }
+
+//    todo check if works (sout logging is temporary)
+    private void logTraceResponse(ClientResponse response) {
+        System.out.println(response.statusCode());
+        System.out.println(response.headers().asHttpHeaders());
+        response.bodyToMono(String.class)
+                .subscribe(System.out::println);
+    }
+
+//    public void requestToMono(String uri, HttpMethod method, String body)
+//            throws InterruptedException {
+//        Thread.sleep(sleepMilliseconds);
+//
+//        client.method(method)
+//                .uri(uri)
+//                .body(BodyInserters.fromValue(body))
+//                .headers(httpHeaders -> {
+//                    httpHeaders.setAll(commonHeaders.toSingleValueMap());
+//                    httpHeaders.add(HttpHeaders.COOKIE, cookie);
+//                })
+//                .exchangeToMono(response -> {
+//                    if (response.statusCode().is2xxSuccessful() || response.statusCode().is3xxRedirection()) {
+//                        MultiValueMap<String, ResponseCookie> cookieMultiValueMap = response.cookies();
+//                        ClientResponse.Headers headerMultiValueMap = response.headers();
+//                        DefaultClientResponse response1 = response;
+//                        return response.bodyToMono(String.class);
+//                    } else {
+//                        return response.createError();
+//                    }
+//                }).block();
+//    }
+//
+//    public WebClient.ResponseSpec request(String uri, HttpMethod method, HttpHeaders headers,
+//                                           String body)
+//            throws InterruptedException {
+//        Thread.sleep(sleepMilliseconds);
+//        return client.method(method)
+//                .uri(uri)
+//                .body(BodyInserters.fromValue(body))
+//                .headers(httpHeaders -> {
+//                    httpHeaders.setAll(headers.toSingleValueMap());
+//                    httpHeaders.add(HttpHeaders.COOKIE, cookie);
+//                })
+//                .retrieve();
+//    }
+
+//    public WebClient.ResponseSpec post(String uri, HttpHeaders addedOrChangedHeaders,
+//                                       MultiValueMap<String, String> body) throws InterruptedException {
+//        return request(uri, HttpMethod.POST, addedOrChangedHeaders, body);
+//    }
+
+    public WebClient.ResponseSpec post(String uri, HttpHeaders addedOrChangedHeaders,
+                                       String body) throws InterruptedException {
+        return request(uri, HttpMethod.POST, addedOrChangedHeaders, body);
     }
 
     /**
@@ -77,10 +165,10 @@ public class HttpRequestBrowser implements GetBrowser {
      *
      * @param uri an uri the request should be sent to.
      * @return response.
-     * @throws InterruptedException see {@link #request(String, HttpMethod, HttpHeaders)}.
+     * @throws InterruptedException see {@link #request(String, HttpMethod, HttpHeaders, String)}.
      */
-    public WebClient.ResponseSpec get(String uri) throws InterruptedException {
-        return request(uri, HttpMethod.GET, commonHeaders);
+    public WebClient.ResponseSpec get(String uri, HttpHeaders addedOrChangedHeaders) throws InterruptedException {
+        return request(uri, HttpMethod.GET, addedOrChangedHeaders, "");
     }
 
     /**
@@ -91,6 +179,18 @@ public class HttpRequestBrowser implements GetBrowser {
      */
     @Override
     public String getSource(String uri) throws InterruptedException {
-        return get(uri).bodyToMono(String.class).doOnError(RuntimeException::new).block();
+        return get(uri, commonHeaders).bodyToMono(String.class).doOnError(RuntimeException::new).block();
+    }
+
+    @Override
+    public String getSource(String uri, HttpHeaders additionalHeaders) throws InterruptedException {
+        additionalHeaders.addAll(commonHeaders);
+        return get(uri, additionalHeaders).bodyToMono(String.class).doOnError(RuntimeException::new).block();
+    }
+
+    public void downloadGet(String uri, HttpHeaders addedOrChangedHeaders, Path path)
+            throws InterruptedException {
+        Flux<DataBuffer> dataBufferFlux = get(uri, addedOrChangedHeaders).bodyToFlux(DataBuffer.class);
+        DataBufferUtils.write(dataBufferFlux, path, StandardOpenOption.CREATE).block();
     }
 }

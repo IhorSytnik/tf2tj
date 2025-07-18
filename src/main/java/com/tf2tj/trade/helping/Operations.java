@@ -20,14 +20,16 @@ public class Operations {
     }
 
     /**
+     * Used only for displaying the ref amount.</br>
      * Converts scrap metal to refined metal. 1 ref = 9 scrap. 1 scrap = 0.11 ref. 1.88 refs = 9 + 8 scrap.
      *
      * @param scrap scrap metal, to be converted into refined metal.
      * @return refs converted from scrap metal.
      * @see Operations#getScrapFromRefs(float) reverse operation
      */
-    public static float getRefsFromScrap(int scrap) {
-        return (float)(scrap / 9) + scrap % 9 * 0.11f;
+    public static String getRefsFromScrap(int scrap) {
+        int rem = scrap % 9;
+        return String.format("%d.%d%d", (scrap - rem) / 9, rem, rem);
     }
 
     /**
@@ -37,6 +39,7 @@ public class Operations {
      * @return scrap metal converted from refs.
      * @see Operations#getRefsFromScrap(int) reverse operation
      */
+    @Deprecated
     public static int getScrapFromRefs(float refs) {
         return (int)refs * 9 + (int)(refs * 10) % 10;
     }

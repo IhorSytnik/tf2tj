@@ -16,13 +16,40 @@ import java.util.Map;
 @AllArgsConstructor
 @NoArgsConstructor
 public class ScrapOffer {
-    private Item item;
+    private ItemDescription itemDescription;
     private PriceFull priceFull;
     private String itemId;
     private int amount;
 
     /**
-     * Map of key: bot id, value: item amount.
+     * Map of <b>key</b>: <i>bot id</i>, <b>value</b>: <i>item amount</i>.
      */
     private Map<Integer, Integer> botIds;
+
+    public void copy(ScrapOffer another) {
+        this.itemDescription = another.itemDescription;
+        this.priceFull = another.priceFull;
+        this.itemId = another.itemId;
+        this.amount = another.amount;
+        this.botIds = another.botIds;
+    }
+
+    public boolean passes(ScrapOffer that) {
+        if (this.equals(that)) return true;
+        return itemDescription.equals(that.itemDescription) && priceFull.compareTo(that.priceFull) >= 0;
+    }
+
+//    @Override
+//    public String toString() {
+//        StringBuilder sb = new StringBuilder();
+//
+//
+//        return "ScrapOffer{" +
+//                "itemDescription=" + itemDescription +
+//                ", priceFull=" + priceFull +
+//                ", itemId='" + itemId + '\'' +
+//                ", amount=" + amount +
+//                ", botIds=" + botIds +
+//                '}';
+//    }
 }

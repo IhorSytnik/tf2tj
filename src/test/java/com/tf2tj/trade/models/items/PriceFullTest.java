@@ -2,16 +2,52 @@ package com.tf2tj.trade.models.items;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author Ihor Sytnik
  */
 class PriceFullTest {
 
+    /*equals*/
+
+    @Test
+    void equals_sameAmountOfKeysDifferentAmountOfScrap_notEquals() {
+        PriceFull priceFull1 = new PriceFull(4, 17);
+        PriceFull priceFull2 = new PriceFull(4, 44);
+
+        assertNotEquals(priceFull1, priceFull2);
+    }
+
+    @Test
+    void equals_differentAmountOfKeysDifferentAmountOfScrap_notEquals() {
+        PriceFull priceFull1 = new PriceFull(4, 17);
+        PriceFull priceFull2 = new PriceFull(6, 44);
+
+        assertNotEquals(priceFull1, priceFull2);
+    }
+
+    @Test
+    void equals_differentAmountOfKeysSameAmountOfScrap_notEquals() {
+        PriceFull priceFull1 = new PriceFull(4, 17);
+        PriceFull priceFull2 = new PriceFull(6, 17);
+
+        assertNotEquals(priceFull1, priceFull2);
+    }
+
+    @Test
+    void equals_sameAmountOfEverything_equals() {
+        PriceFull priceFull1 = new PriceFull(4, 17);
+        PriceFull priceFull2 = new PriceFull(4, 17);
+
+        assertEquals(priceFull1, priceFull2);
+    }
+
+    /*getMetalPrice*/
+
     @Test
     void getMetalPrice_4Keys17Scrap93Price_equals() {
-        int keyPrice = 93;
+        PriceScrap keyPrice = new PriceScrap(93);
         PriceFull priceFull = new PriceFull(4, 17);
 
         int expected = 389;
@@ -21,7 +57,7 @@ class PriceFullTest {
 
     @Test
     void getMetalPrice_0Keys17Scrap93Price_equals() {
-        int keyPrice = 93;
+        PriceScrap keyPrice = new PriceScrap(93);
         PriceFull priceFull = new PriceFull(0, 17);
 
         int expected = 17;
@@ -31,7 +67,7 @@ class PriceFullTest {
 
     @Test
     void getMetalPrice_4Keys0Scrap93Price_equals() {
-        int keyPrice = 93;
+        PriceScrap keyPrice = new PriceScrap(93);
         PriceFull priceFull = new PriceFull(4, 0);
 
         int expected = 372;
@@ -41,7 +77,7 @@ class PriceFullTest {
 
     @Test
     void getMetalPrice_0Keys0Scrap93Price_equals() {
-        int keyPrice = 93;
+        PriceScrap keyPrice = new PriceScrap(93);
         PriceFull priceFull = new PriceFull(0, 0);
 
         int expected = 0;
@@ -51,13 +87,15 @@ class PriceFullTest {
 
     @Test
     void getMetalPrice_4Keys17Scrap0Price_equals() {
-        int keyPrice = 0;
+        PriceScrap keyPrice = new PriceScrap(0);
         PriceFull priceFull = new PriceFull(4, 17);
 
         int expected = 17;
 
         assertEquals(expected, priceFull.getMetalPrice(keyPrice));
     }
+
+    /*getPriceFromString*/
 
     @Test
     void getPriceFromString_intKeysCommaIntRefs_equals() {
@@ -132,6 +170,26 @@ class PriceFullTest {
     }
 
     @Test
+    void getPriceFromString_intKeysCommaFloatRefsPlusWeaponFirst_equals() {
+        String given = "3 keys, 2.72 refs";
+
+        PriceFull expected = new PriceFull(3, 24, true);
+
+        assertEquals(expected, PriceFull.getPriceFromString(given));
+    }
+
+    @Test
+    void getPriceFromString_intKeysCommaFloatRefsPlusWeaponSecond_equals() {
+        String given = "3 keys, 4.05 refs";
+
+        PriceFull expected = new PriceFull(3, 36, true);
+
+        assertEquals(expected, PriceFull.getPriceFromString(given));
+    }
+
+    /*getPriceInRefsFromString*/
+
+    @Test
     void getPriceInRefsFromString_float_equals() {
         String given = "1.22";
 
@@ -174,5 +232,31 @@ class PriceFullTest {
         PriceFull expected = new PriceFull(0, 0);
 
         assertEquals(expected, PriceFull.getPriceInRefsFromString(given));
+    }
+
+    /*compareTo*/
+
+    @Test
+    void compareTo_1Key21RefTo2Key11Ref_negative() {
+        PriceFull price1 = new PriceFull(1, 21);
+        PriceFull price2 = new PriceFull(2, 11);
+
+        assertTrue(price1.compareTo(price2) < 0);
+    }
+
+    @Test
+    void compareTo_2Key11RefTo1Key21Ref_positive() {
+        PriceFull price1 = new PriceFull(1, 21);
+        PriceFull price2 = new PriceFull(2, 11);
+
+        assertTrue(price2.compareTo(price1) > 0);
+    }
+
+    @Test
+    void compareTo_1Key21RefTo1Key21Ref_zero() {
+        PriceFull price1 = new PriceFull(1, 21);
+        PriceFull price2 = new PriceFull(1, 21);
+
+        assertEquals(0, price1.compareTo(price2));
     }
 }

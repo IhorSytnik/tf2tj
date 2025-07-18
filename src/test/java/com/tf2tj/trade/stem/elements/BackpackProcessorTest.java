@@ -3,19 +3,18 @@ package com.tf2tj.trade.stem.elements;
 import com.tf2tj.trade.enums.Paint;
 import com.tf2tj.trade.enums.Quality;
 import com.tf2tj.trade.exceptions.CouldNotFindPartnerException;
-import com.tf2tj.trade.models.items.Item;
-import com.tf2tj.trade.models.items.Offer;
-import com.tf2tj.trade.models.items.PriceFull;
-import com.tf2tj.trade.models.items.ScrapOffer;
+import com.tf2tj.trade.models.items.*;
 import com.tf2tj.trade.models.people.Partner;
 import com.tf2tj.trade.stem.requests.GetBrowser;
 import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
+import org.springframework.http.HttpHeaders;
 import org.springframework.test.util.ReflectionTestUtils;
 
 import java.io.IOException;
@@ -48,26 +47,41 @@ class BackpackProcessorTest {
     private int backpackKeyPriceSell = 726;
 
     @Mock
-    private GetBrowser getBrowser = uri -> null;
+    private GetBrowser getBrowser = new GetBrowser() {
+        @Override
+        public String getSource(String uri) {
+            return null;
+        }
+
+        @Override
+        public String getSource(String uri, HttpHeaders additionalHeaders) throws InterruptedException {
+            return null;
+        }
+
+        @Override
+        public void updateCookies() {
+
+        }
+    };
     @InjectMocks
     private BackpackProcessor backpackProcessor;
 
     @BeforeAll
     static void beforeAll() throws IOException {
         bpListingsPage1 = new String(
-                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/1-1_BackpackTf.html"))
+                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/BackpackTf_1-1.html"))
                         .readAllBytes(),
                 StandardCharsets.UTF_8);
         bpListingsPage2 = new String(
-                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/1-2_BackpackTf.html"))
+                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/BackpackTf_1-2.html"))
                         .readAllBytes(),
                 StandardCharsets.UTF_8);
         bpListingsPage3 = new String(
-                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/1-3_BackpackTf.html"))
+                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/BackpackTf_1-3.html"))
                         .readAllBytes(),
                 StandardCharsets.UTF_8);
         bpKeyListingsPage = new String(
-                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/1_keys_BackpackTf.html"))
+                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/BackpackTf_1_keys.html"))
                         .readAllBytes(),
                 StandardCharsets.UTF_8);
         String uriPage = String.format("/classifieds?" +
@@ -103,12 +117,12 @@ class BackpackProcessorTest {
                 "",
                 1);
         scrapOffer.setPriceFull(new PriceFull(0, 13));
-        Item item = new Item();
-        item.setCraftable(true);
-        item.setPaint(Paint.NOT_PAINTED);
-        item.setNameBase("Conjurer's Cowl");
-        item.setQuality(Quality.UNIQUE);
-        scrapOffer.setItem(item);
+        ItemDescription itemDescription = new ItemDescription();
+        itemDescription.setCraftable(true);
+        itemDescription.setPaint(Paint.NOT_PAINTED);
+        itemDescription.setNameBase("Conjurer's Cowl");
+        itemDescription.setQuality(Quality.UNIQUE);
+        scrapOffer.setItemDescription(itemDescription);
 
         offersExpected.add(new Offer(
                 new PriceFull(0, 14),
@@ -129,6 +143,13 @@ class BackpackProcessorTest {
 
     }
 
+    @BeforeEach
+    void setUp() {
+        ReflectionTestUtils.setField(backpackProcessor, "scrapKeyPriceBuy", new PriceScrap(0));
+        ReflectionTestUtils.setField(backpackProcessor, "backpackKeyPriceBuy", new PriceScrap());
+        ReflectionTestUtils.setField(backpackProcessor, "backpackKeyPriceSell", new PriceScrap());
+    }
+
     @Test
     void getBuyListings_containsExactlyTheseOffers_equals() throws InterruptedException, CouldNotFindPartnerException {
         Mockito.doReturn(bpListingsPage1).when(getBrowser).getSource(uriPage1);
@@ -143,7 +164,9 @@ class BackpackProcessorTest {
         Mockito.doReturn(bpKeyListingsPage).when(getBrowser).getSource(uriKeyPage);
         backpackProcessor.parseAndSetKeyPrices();
 
-        assertEquals(backpackKeyPriceBuy, ReflectionTestUtils.getField(backpackProcessor, "backpackKeyPriceBuy"));
-        assertEquals(backpackKeyPriceSell, ReflectionTestUtils.getField(backpackProcessor, "backpackKeyPriceSell"));
+        assertEquals(new PriceScrap(backpackKeyPriceBuy),
+                ReflectionTestUtils.getField(backpackProcessor, "backpackKeyPriceBuy"));
+        assertEquals(new PriceScrap(backpackKeyPriceSell),
+                ReflectionTestUtils.getField(backpackProcessor, "backpackKeyPriceSell"));
     }
 }

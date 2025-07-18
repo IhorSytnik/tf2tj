@@ -7,7 +7,9 @@ import com.tf2tj.trade.enums.Currency;
 import com.tf2tj.trade.enums.Paint;
 import com.tf2tj.trade.enums.Quality;
 import com.tf2tj.trade.models.items.Item;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
+import lombok.ToString;
 import reactor.util.function.Tuple2;
 import reactor.util.function.Tuples;
 
@@ -22,6 +24,8 @@ import java.util.stream.Collectors;
  * @author Ihor Sytnik
  */
 @Getter
+@EqualsAndHashCode
+@ToString
 public class Inventory {
     private List<Item> itemList;
     private Item scraps;
@@ -105,6 +109,20 @@ public class Inventory {
                 .collect(Collectors.toList());
     }
 
+    public Item getItemByAssetId(String assetId) throws Exception {
+        return itemList.stream()
+                .filter(item -> item.getAssets().stream()
+                        .anyMatch(asset -> asset.getId().equals(assetId)))
+                .map(item ->
+                        item.withAssets(item.getAssets().stream()
+                                .filter(
+                                        asset -> asset.getId().equals(assetId))
+                                .toList())
+                )
+                .findAny()
+                .orElseThrow(() -> new Exception("No such item with this asset id."));
+    }
+
     /**
      * Class for deserialization of json string into a {@link List} of {@link Item}s.
      */
@@ -162,7 +180,6 @@ public class Inventory {
                 "{descriptions: { "value": "( Not Tradable, Marketable, or Usable in Crafting )" }}" */
                 //boolean craftable;
                 it.setPaint(getPaint(descriptionJson.get("descriptions")));
-                it.setAssets(new LinkedList<>());
 
                 itemMap.put(Tuples.of(classId, instanceId), it);
             }
@@ -191,12 +208,12 @@ public class Inventory {
                 if (!itemMap.containsKey(itemKey))
                     continue;
 
-                Item.Asset asset = new Item.Asset();
-                asset.setId(assetJson.get("id").asText());
-                asset.setAmount(assetJson.get("amount").asText());
-                asset.setPos(assetJson.get("pos").asInt());
-
-                itemMap.get(itemKey).getAssets().add(asset);
+                itemMap.get(itemKey).getAssets().add(
+                        new Item.Asset(
+                                assetJson.get("id").asText(),
+                                assetJson.get("amount").asText(),
+                                assetJson.get("pos").asInt())
+                );
             }
             return itemMap;
         }
