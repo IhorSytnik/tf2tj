@@ -76,19 +76,19 @@ class SteamProcessorTest {
     static void beforeAll() throws IOException {
         steamHTMLId = new String(
                 Objects.requireNonNull(SteamProcessorTest.class
-                        .getResourceAsStream("/SteamCom_id.html")).readAllBytes(),
+                        .getResourceAsStream("/html/SteamCom_id.html")).readAllBytes(),
                 StandardCharsets.UTF_8);
         steamHTMLProfiles = new String(
                 Objects.requireNonNull(SteamProcessorTest.class
-                        .getResourceAsStream("/SteamCom_profiles.html")).readAllBytes(),
+                        .getResourceAsStream("/html/SteamCom_profiles.html")).readAllBytes(),
                 StandardCharsets.UTF_8);
         steamHTMLIncomingTrades = new String(
                 Objects.requireNonNull(SteamProcessorTest.class
-                        .getResourceAsStream("/SteamCom_incomingTrades.html")).readAllBytes(),
+                        .getResourceAsStream("/html/SteamCom_incomingTrades.html")).readAllBytes(),
                 StandardCharsets.UTF_8);
         inventoryUpdated = new String(
                 Objects.requireNonNull(SteamProcessorTest.class
-                        .getResourceAsStream("/inventoryUpdated.json")).readAllBytes(),
+                        .getResourceAsStream("/json/inventoryUpdated.json")).readAllBytes(),
                 StandardCharsets.UTF_8);
 
         Trade trade1 = new Trade();

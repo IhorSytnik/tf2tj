@@ -46,7 +46,7 @@ class InventoryJsonDeserializerTest {
         inventoryUpdated = new String(
                 Objects.requireNonNull(
                         InventoryJsonDeserializerTest.class
-                                .getResourceAsStream("/inventoryUpdated.json")).readAllBytes(),
+                                .getResourceAsStream("/json/inventoryUpdated.json")).readAllBytes(),
                 StandardCharsets.UTF_8);
 
         itemsExpected.add(makeItem("5802", "780650846", "0",

@@ -41,7 +41,7 @@ chromedriver.exe
 
 # The following files are generated/updated by vaadin-maven-plugin or vaadin-gradle-plugin
 node_modules/
-src/main/frontend/generated/
+frontend/generated/
 pnpmfile.js
 .npmrc
 webpack.generated.js
@@ -51,3 +51,7 @@ vite.generated.ts
 tsconfig.json
 types.d.ts
 index.html
+
+# Temporary ignore to clean up some data
+/src/test/resources/html/
+/src/test/resources/json/

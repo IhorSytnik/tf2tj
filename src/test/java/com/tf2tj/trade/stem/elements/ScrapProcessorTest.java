@@ -77,7 +77,7 @@ class ScrapProcessorTest {
     static void beforeAll() throws IOException {
         scrapHTML = new String(
                 Objects.requireNonNull(ScrapProcessorTest.class
-                        .getResourceAsStream("/ScrapTf_hats.html")).readAllBytes(),
+                        .getResourceAsStream("/html/ScrapTf_hats.html")).readAllBytes(),
                 StandardCharsets.UTF_8);
 //        offers.add(
 //                new ScrapOffer(
