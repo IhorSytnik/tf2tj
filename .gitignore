@@ -52,5 +52,5 @@ tsconfig.json
 types.d.ts
 index.html
 
-src/test/resources/html/
-src/test/resources/json/
+/src/test/resources/html/
+/src/test/resources/json/
