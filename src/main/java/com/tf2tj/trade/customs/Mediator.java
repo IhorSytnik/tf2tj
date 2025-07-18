@@ -1,4 +1,4 @@
-package com.tf2tj.trade.stem;
+package com.tf2tj.trade.customs;
 
 import com.tf2tj.trade.models.items.Offer;
 import com.tf2tj.trade.models.items.ScrapOffer;
@@ -12,8 +12,8 @@ import java.util.Collection;
  */
 public interface Mediator {
     void start() throws Exception;
-    void gotScrapOffers(Collection<ScrapOffer> scrapOffers) throws Exception;
-    void gotBackpackOffer(Collection<Offer> offers, ScrapOffer scrapOffer);
+    void gotSellOffers(Collection<ScrapOffer> scrapOffers) throws Exception;
+    void gotBuyOffers(Collection<Offer> offers, ScrapOffer scrapOffer);
     void backpackFinished();
     void tradeSuccess(Offer offer);
     void tradeFail(Offer offer);

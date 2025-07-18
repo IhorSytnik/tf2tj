@@ -6,7 +6,7 @@ import org.springframework.test.context.ActiveProfiles;
 
 @SpringBootTest
 @ActiveProfiles("request")
-class Tf2TjApplicationTests {
+class Tf2TjApplicationRequestProfileTests {
 
 	@Test
 	void contextLoads() {

@@ -42,7 +42,7 @@ class InventoryTest {
         item.setName(name);
         item.setQuality(quality);
         item.setPaint(paint);
-        item.setAssets(assets);
+        item.getAssets().addAll(assets);
         return item;
     }
 

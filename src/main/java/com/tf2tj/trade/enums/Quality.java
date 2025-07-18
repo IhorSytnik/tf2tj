@@ -68,32 +68,33 @@ import java.util.Map;
 @RequiredArgsConstructor
 @Getter
 public enum Quality {
-    NORMAL("Normal", 0),
-    GENUINE("Genuine", 1),
-    RARITY2("rarity2", 2), // Unused
-    VINTAGE("Vintage", 3),
-    RARITY4("rarity4", 4), // Unused
-    UNUSUAL("Unusual", 5),
-    UNIQUE("Unique", 6),
-    COMMUNITY("Community", 7),
-    VALVE("Valve", 8),
-    SELF_MADE("Self-Made", 9),
-    CUSTOMIZED("Customized", 10),  // Unused
-    STRANGE("Strange", 11),
-    COMPLETED("Completed", 12),  // Unused
-    HAUNTED("Haunted", 13),
-    COLLECTORS("Collector's", 14),
-    DECORATED("Decorated", 15);
+    NORMAL(     "Normal",       0,  "#B2B2B2"),
+    GENUINE(    "Genuine",      1,  "#4D7455"),
+    RARITY2(    "rarity2",      2,  "#FFD700"), // Unused
+    VINTAGE(    "Vintage",      3,  "#476291"),
+    RARITY4(    "rarity4",      4,  "#FFD700"), // Unused
+    UNUSUAL(    "Unusual",      5,  "#8650AC"),
+    UNIQUE(     "Unique",       6,  "#FFD700"),
+    COMMUNITY(  "Community",    7,  "#70B04A"),
+    VALVE(      "Valve",        8,  "#A50F79"),
+    SELF_MADE(  "Self-Made",    9,  "#70B04A"),
+    CUSTOMIZED( "Customized",   10, "#FFD700"),  // Unused
+    STRANGE(    "Strange",      11, "#CF6A32"),
+    COMPLETED(  "Completed",    12, "#FFD700"),  // Unused
+    HAUNTED(    "Haunted",      13, "#38F3AB"),
+    COLLECTORS( "Collector's",  14, "#AA0000"),
+    DECORATED(  "Decorated",    15, "#FAFAFA");
 
-    private final String qualityName;
-    private final int qualityNumeric;
+    private final String name;
+    private final int number;
+    private final String color;
     private static final Map<String, Quality> map;
 
     static {
         map = new HashMap<>();
         for (Quality v : Quality.values()) {
-            map.put(v.qualityName, v);
-            map.put(String.valueOf(v.qualityNumeric), v);
+            map.put(v.name, v);
+            map.put(String.valueOf(v.number), v);
         }
     }
 

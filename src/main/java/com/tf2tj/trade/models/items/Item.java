@@ -1,10 +1,9 @@
 package com.tf2tj.trade.models.items;
 
-import com.tf2tj.trade.enums.Killstreak;
-import com.tf2tj.trade.enums.Paint;
-import com.tf2tj.trade.enums.Quality;
 import lombok.*;
+import lombok.experimental.Delegate;
 
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -13,23 +12,16 @@ import java.util.List;
  * @author Ihor Sytnik
  */
 @Getter
-@Setter
 @ToString
 @EqualsAndHashCode
 @AllArgsConstructor
 @NoArgsConstructor
 public class Item {
-    private String defIndex;
-    private String classId;
-    private String instanceId;
-    private String name;
-    private String nameBase;
-    private boolean craftable;
-    private boolean australium;
-    private Killstreak killstreak;
-    private Quality quality;
-    private Paint paint;
-    private List<Asset> assets;
+    @Delegate
+    private ItemDescription itemDescription = new ItemDescription();
+
+    @With
+    private List<Asset> assets = new LinkedList<>();
 
     /**
      * Describes an asset, that is a particular item with its id.<br>
