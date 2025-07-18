@@ -69,19 +69,19 @@ class BackpackProcessorTest {
     @BeforeAll
     static void beforeAll() throws IOException {
         bpListingsPage1 = new String(
-                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/BackpackTf_1-1.html"))
+                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/html/BackpackTf_1-1.html"))
                         .readAllBytes(),
                 StandardCharsets.UTF_8);
         bpListingsPage2 = new String(
-                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/BackpackTf_1-2.html"))
+                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/html/BackpackTf_1-2.html"))
                         .readAllBytes(),
                 StandardCharsets.UTF_8);
         bpListingsPage3 = new String(
-                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/BackpackTf_1-3.html"))
+                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/html/BackpackTf_1-3.html"))
                         .readAllBytes(),
                 StandardCharsets.UTF_8);
         bpKeyListingsPage = new String(
-                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/BackpackTf_1_keys.html"))
+                Objects.requireNonNull(BackpackProcessorTest.class.getResourceAsStream("/html/BackpackTf_1_keys.html"))
                         .readAllBytes(),
                 StandardCharsets.UTF_8);
         String uriPage = String.format("/classifieds?" +

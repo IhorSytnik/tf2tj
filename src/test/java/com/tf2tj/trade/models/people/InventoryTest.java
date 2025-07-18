@@ -49,13 +49,13 @@ class InventoryTest {
     @BeforeAll
     static void beforeAll() throws IOException {
         inventory = new String(
-                Objects.requireNonNull(InventoryTest.class.getResourceAsStream("/inventory.json")).readAllBytes(),
+                Objects.requireNonNull(InventoryTest.class.getResourceAsStream("/json/inventory.json")).readAllBytes(),
                 StandardCharsets.UTF_8);
         inventoryUpdated = new String(
-                Objects.requireNonNull(InventoryTest.class.getResourceAsStream("/inventoryUpdated.json")).readAllBytes(),
+                Objects.requireNonNull(InventoryTest.class.getResourceAsStream("/json/inventoryUpdated.json")).readAllBytes(),
                 StandardCharsets.UTF_8);
         inventoryUpdated = new String(
-                Objects.requireNonNull(InventoryJsonDeserializerTest.class.getResourceAsStream("/inventoryUpdated.json")).readAllBytes(),
+                Objects.requireNonNull(InventoryJsonDeserializerTest.class.getResourceAsStream("/json/inventoryUpdated.json")).readAllBytes(),
                 StandardCharsets.UTF_8);
 
         itemsWithoutCurrenciesExpected.add(makeItem("5802", "780650846", "0",
